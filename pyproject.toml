@@ -1,0 +1,18 @@
+[project]
+name = "farma"
+version = "0.1.0"
+description = "Pharmacy driving time analysis for northern Vermont counties"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests",
+    "geopandas",
+    "shapely",
+    "folium",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "python-dotenv",
+    "jupyter",
+]
