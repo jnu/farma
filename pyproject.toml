@@ -15,4 +15,5 @@ dependencies = [
     "seaborn",
     "python-dotenv",
     "jupyter",
+    "scipy>=1.17.1",
 ]
