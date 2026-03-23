@@ -1,0 +1,2018 @@
+[
+  {
+    "place_id": "ChIJN_HfEXMa4IkRFp_ZW4UFD94",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "34 Rte 30 N, Bomoseen, VT 05732, USA",
+    "city": "Bomoseen",
+    "lat": 43.609006400000005,
+    "lon": -73.2078542,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ1ysBrN9ctUwRYryf49IXTf8",
+    "name": "Walgreens Pharmacy",
+    "address": "263 Court St, Middlebury, VT 05753, USA",
+    "city": "Middlebury",
+    "lat": 44.003496,
+    "lon": -73.153925,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJfWVmoeVctUwRq-c0smvcqlo",
+    "name": "Porter Hospital",
+    "address": "115 Porter Dr, Middlebury, VT 05753, USA",
+    "city": "Middlebury",
+    "lat": 43.999726700000004,
+    "lon": -73.1684387,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJtXBHZmiqykwRcbkfOeKoOq8",
+    "name": "Walmart Pharmacy",
+    "address": "1134 Wicker St, Ticonderoga, NY 12883, USA",
+    "city": "Ticonderoga",
+    "lat": 43.856698099999996,
+    "lon": -73.43319799999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJAevh-c8L4IkRZ2gY-dOSJAc",
+    "name": "CVS Pharmacy",
+    "address": "170 Broadway SUITE 1, Whitehall, NY 12887, USA",
+    "city": "Whitehall",
+    "lat": 43.5477829,
+    "lon": -73.40651040000002,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ9-8oeN5ctUwReGhuGDDXU7Y",
+    "name": "Hannaford Pharmacy",
+    "address": "260 Court St ste 6, Middlebury, VT 05753, USA",
+    "city": "Middlebury",
+    "lat": 44.001304399999995,
+    "lon": -73.15599019999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJXdwjnzIR4IkRKeeiSk2wj9g",
+    "name": "Walgreens Pharmacy",
+    "address": "621 Rte 22a N, Fair Haven, VT 05743, USA",
+    "city": "Fair Haven",
+    "lat": 43.6023102,
+    "lon": -73.2740521,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJN4JWFh2qykwRN70iGm3WQ3E",
+    "name": "Rite Aid",
+    "address": "1161 State Hwy 9N, Ticonderoga, NY 12883, USA",
+    "city": "Ticonderoga",
+    "lat": 43.8591577,
+    "lon": -73.4383884,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJqUaT2zdLtUwRTazM4wffknY",
+    "name": "Walgreens Pharmacy",
+    "address": "1 Union St, Brandon, VT 05733, USA",
+    "city": "Brandon",
+    "lat": 43.7976319,
+    "lon": -73.088047,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPddSRelLtUwRSIEIosGtphI",
+    "name": "Community Health Pharmacy Brandon",
+    "address": "420 Grove St Suite 2, Brandon, VT 05733, USA",
+    "city": "Brandon",
+    "lat": 43.804929,
+    "lon": -73.099155,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJz0Z_us2rykwRDHGEEApejds",
+    "name": "Walgreens Pharmacy",
+    "address": "1161 Nys Route 9N, Ticonderoga, NY 12883, USA",
+    "city": "Ticonderoga",
+    "lat": 43.8592327,
+    "lon": -73.43866469999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJY0CTJnNdtUwR3VdRu5pvwlM",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "40 Court St, Middlebury, VT 05753, USA",
+    "city": "Middlebury",
+    "lat": 44.0108691,
+    "lon": -73.1646571,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJtURycTBKtUwRlwCTrW3b5kQ",
+    "name": "Rite Aid Pharmacy",
+    "address": "14 Park St, Brandon, VT 05733, USA",
+    "city": "Brandon",
+    "lat": 43.797622,
+    "lon": -73.0883017,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJeRvk-94i4IkRIj1SWfluVFA",
+    "name": "Walgreens Pharmacy",
+    "address": "294 Main St, West Rutland, VT 05777, USA",
+    "city": "West Rutland",
+    "lat": 43.5939257,
+    "lon": -73.0439159,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJUxqiBBgQ4IkRWr84BGRiOZk",
+    "name": "Goldenberry's Apothecary",
+    "address": "Fair Haven, VT 05743, USA",
+    "city": "VT 05743",
+    "lat": 43.5931601,
+    "lon": -73.26513539999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJP6hP-_MR4IkRLbKLwLP-edM",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "621 Rte 22a N, Fair Haven, VT 05743, USA",
+    "city": "Fair Haven",
+    "lat": 43.6024319,
+    "lon": -73.2742105,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJWVttBm0a4IkRpuQ2dfNQ294",
+    "name": "Spencer Thomas M",
+    "address": "Castleton, VT 05735, USA",
+    "city": "VT 05735",
+    "lat": 43.6139751,
+    "lon": -73.208389,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ5-14MbKrykwR0Jlq4mdIdzg",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "1161 Nys Route 9N, Ticonderoga, NY 12883, USA",
+    "city": "Ticonderoga",
+    "lat": 43.8592327,
+    "lon": -73.43866469999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJeRvk-94i4IkRW49-0yZ0LCI",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "294 Main St, West Rutland, VT 05777, USA",
+    "city": "West Rutland",
+    "lat": 43.5939257,
+    "lon": -73.0439159,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJS_zDs9dtUwRKExG7FVIJt4",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "263 Court St, Middlebury, VT 05753, USA",
+    "city": "Middlebury",
+    "lat": 44.003402799999996,
+    "lon": -73.15391079999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ88exFGAhtUwR1e-NAS-YI1s",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "151 VT-12, Randolph, VT 05060, USA",
+    "city": "Randolph",
+    "lat": 43.911526599999995,
+    "lon": -72.6630194,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ7_iMAPMk4IkRdLssgKBDjIc",
+    "name": "Rutland Pharmacy",
+    "address": "75 Allen St, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.5977914,
+    "lon": -72.9629503,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJh_P_TWAk4IkRNTuO2g9Q8s4",
+    "name": "CVS Pharmacy",
+    "address": "31-33 S Main St, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.6104201,
+    "lon": -72.973202,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJP1YdE2ck4IkROM_f6IsQhRA",
+    "name": "Walgreens Pharmacy",
+    "address": "10 Woodstock Ave, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.6104251,
+    "lon": -72.97123300000001,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ7_H-sGIk4IkRq_Kv4crc4bc",
+    "name": "Walmart Pharmacy",
+    "address": "90 Shopping Plaza Rd, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.6053053,
+    "lon": -72.980631,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJfQGEHWck4IkRiA4TbWLn6EM",
+    "name": "Hannaford Pharmacy",
+    "address": "318 S Main St, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.5858796,
+    "lon": -72.9709661,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ____oPkk4IkRvGUGlj1YbW0",
+    "name": "RRMC Pharmacy",
+    "address": "160 Allen St, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.5983802,
+    "lon": -72.95510159999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJIaUgKF0k4IkRYvUcqj-uiCc",
+    "name": "Community Pharmacy",
+    "address": "62 Woodstock Ave, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.6122933,
+    "lon": -72.966625,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ-zL2R1sk4IkRSXj_uizyhQ4",
+    "name": "Market 32 Pharmacy",
+    "address": "38 rutland shopping Plaza, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.603846999999995,
+    "lon": -72.97842729999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJkxAeimMjtUwR6UAxIDXfa2k",
+    "name": "Rite Aid Pharmacy",
+    "address": "12 N Main St, Randolph, VT 05060, USA",
+    "city": "Randolph",
+    "lat": 43.9232437,
+    "lon": -72.66554020000001,
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  {
+    "place_id": "ChIJ__8vyhPYtEwRIiyZUVxmAAw",
+    "name": "Rite Aid Pharmacy",
+    "address": "1823 VT-107 Ste 2, Bethel, VT 05032, USA",
+    "city": "Bethel",
+    "lat": 43.823182599999996,
+    "lon": -72.6008837,
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  {
+    "place_id": "ChIJIaUgKF0k4IkRJri33MM6vDQ",
+    "name": "Martin J. Irons, BPharm",
+    "address": "62 Woodstock Ave, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.612296699999995,
+    "lon": -72.9666101,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJOcdT0Qol4IkR1FWXkCBZ8vM",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "10 Woodstock Ave, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.610507999999996,
+    "lon": -72.97124649999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ3WoNdQMl4IkR02mMg_Iv5ps",
+    "name": "BioScrip Infusion Services",
+    "address": "217 Woodstock Ave Suite B, Rutland, VT 05701, USA",
+    "city": "Rutland",
+    "lat": 43.619366899999996,
+    "lon": -72.9557453,
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  {
+    "place_id": "ChIJ8XYm7AG1tEwRSvA3Dj5ZfxM",
+    "name": "Alice Peck Day Memorial Hospital",
+    "address": "10 Alice Peck Day Dr, Lebanon, NH 03766, USA",
+    "city": "Lebanon",
+    "lat": 43.640602,
+    "lon": -72.2642472,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ44EhSNm1tEwRlFREPxL9S-k",
+    "name": "Dartmouth Hitchcock Medical Center Pharmacy at Centerra",
+    "address": "12 Centerra Pkwy, Lebanon, NH 03766, USA",
+    "city": "Lebanon",
+    "lat": 43.6758676,
+    "lon": -72.2596233,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJuWKcFebJtEwRZpvij3NBeH4",
+    "name": "CVS Pharmacy",
+    "address": "79 S Main St, Hanover, NH 03755, USA",
+    "city": "Hanover",
+    "lat": 43.699450399999996,
+    "lon": -72.29055389999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJB2HaqqDKtEwRVCC1OfL6QG4",
+    "name": "CVS Pharmacy",
+    "address": "250 N Plainfield Rd, West Lebanon, NH 03784, USA",
+    "city": "West Lebanon",
+    "lat": 43.6290177,
+    "lon": -72.3229343,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJB_eoVC7Z4YkR0n-xKBP2lZ0",
+    "name": "Ottauquechee Pharmacy",
+    "address": "32 Pleasant St # 3, Woodstock, VT 05091, USA",
+    "city": "Woodstock",
+    "lat": 43.6276401,
+    "lon": -72.5137547,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJS6Bl1le1tEwRGixmhciiLvk",
+    "name": "Walmart Pharmacy",
+    "address": "285 N Plainfield Rd, West Lebanon, NH 03784, USA",
+    "city": "West Lebanon",
+    "lat": 43.624612299999995,
+    "lon": -72.3226893,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJx2e7M-a1tEwRbVIe9jG_RY8",
+    "name": "Dartmouth-Hitchcock Pharmacy",
+    "address": "12 Centerra Pkwy, Lebanon, NH 03766, USA",
+    "city": "Lebanon",
+    "lat": 43.676395199999995,
+    "lon": -72.2603761,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJj1SCeim5tEwRq0bxiPvjqB0",
+    "name": "Hannaford Pharmacy",
+    "address": "8 Market St, West Lebanon, NH 03784, USA",
+    "city": "West Lebanon",
+    "lat": 43.636312,
+    "lon": -72.317183,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJF4-wbF-1tEwRmZr0XST7tuc",
+    "name": "Walgreens Pharmacy",
+    "address": "3 Airport Rd, West Lebanon, NH 03784, USA",
+    "city": "West Lebanon",
+    "lat": 43.629995,
+    "lon": -72.32071549999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJC61QeRK1tEwR8Gf5-f-MA9k",
+    "name": "Price Chopper Pharmacy",
+    "address": "370 Miracle Mile, Lebanon, NH 03766, USA",
+    "city": "Lebanon",
+    "lat": 43.6370134,
+    "lon": -72.2880023,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJT0bTb33KtEwRED94IG-8DAA",
+    "name": "Corner Drug Co",
+    "address": "213 Maple St, White River Junction, VT 05001, USA",
+    "city": "White River Junction",
+    "lat": 43.6522905,
+    "lon": -72.31872369999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJAQ-jbgTJtEwR5AtWtoIiz84",
+    "name": "Dick Hall's House Pharmacy",
+    "address": "5 Rope Ferry Rd, Hanover, NH 03755, USA",
+    "city": "Hanover",
+    "lat": 43.7085477,
+    "lon": -72.2871198,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ95j1rFi1tEwRaZkdTPATE7I",
+    "name": "Price Chopper Pharmacy",
+    "address": "285 N Plainfield Rd Ste W, West Lebanon, NH 03784, USA",
+    "city": "West Lebanon",
+    "lat": 43.624612299999995,
+    "lon": -72.3226893,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJL57XeUG1tEwRnRk90vDN1a0",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "3 Airport Rd, West Lebanon, NH 03784, USA",
+    "city": "West Lebanon",
+    "lat": 43.630053499999995,
+    "lon": -72.3207458,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJSXNZ8y20tEwRD0wyuQOjhGo",
+    "name": "Woomera Therapeutics Inc",
+    "address": "115 Etna Rd # D, Lebanon, NH 03766, USA",
+    "city": "Lebanon",
+    "lat": 43.6671939,
+    "lon": -72.24058699999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJn-m2Z8KvtEwRAVZPDKqBcIA",
+    "name": "Pro Livestock Solutions",
+    "address": "675 Canaan St, Canaan, NH 03741, USA",
+    "city": "Canaan",
+    "lat": 43.6784718,
+    "lon": -72.0512122,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPeHULoVes0wRYX47yPBl6iI",
+    "name": "Walmart Pharmacy",
+    "address": "683 Tenney Mountain Hwy, Plymouth, NH 03264, USA",
+    "city": "Plymouth",
+    "lat": 43.7691401,
+    "lon": -71.7422241,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJF6-jK45es0wRJUnQBDM-_Sg",
+    "name": "CVS Pharmacy",
+    "address": "345 Highland St, Plymouth, NH 03264, USA",
+    "city": "Plymouth",
+    "lat": 43.769964099999996,
+    "lon": -71.7221874,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ589g1ppes0wR4EeqWXlal9Q",
+    "name": "Hannaford Pharmacy",
+    "address": "389 Tenney Mountain Hwy, Plymouth, NH 03264, USA",
+    "city": "Plymouth",
+    "lat": 43.768417199999995,
+    "lon": -71.71661379999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJaTXfMuPstEwRCYIdbgWoSIA",
+    "name": "Hannaford Pharmacy",
+    "address": "586 Lower Plain, Bradford, VT 05033, USA",
+    "city": "Bradford",
+    "lat": 43.9845416,
+    "lon": -72.12280179999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJSfiYkA5fs0wRgSJScffZZpU",
+    "name": "Genoa Healthcare",
+    "address": "101 Boulder Point Dr #1009, Plymouth, NH 03264, USA",
+    "city": "Plymouth",
+    "lat": 43.767561,
+    "lon": -71.73933210000001,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJaTSU1vdRs0wREt8yxbTZcNo",
+    "name": "Rite Aid Pharmacy",
+    "address": "360 Summer St, Bristol, NH 03222, USA",
+    "city": "Bristol",
+    "lat": 43.5976152,
+    "lon": -71.726913,
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  {
+    "place_id": "ChIJq9_YHlvttEwRYrvT-93S63c",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "901 Lower Plain, Bradford, VT 05033, USA",
+    "city": "Bradford",
+    "lat": 43.9806587,
+    "lon": -72.11959519999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPbuiAqVHs0wRsb69-9hYOrM",
+    "name": "Hannaford Pharmacy",
+    "address": "50 NH-25 #5, Meredith, NH 03253, USA",
+    "city": "Meredith",
+    "lat": 43.6609532,
+    "lon": -71.4976531,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJQRJCl5U2s0wRTH5gF-y_gqk",
+    "name": "CVS Pharmacy",
+    "address": "1371 Lake Shore Rd, Gilford, NH 03249, USA",
+    "city": "Gilford",
+    "lat": 43.5622378,
+    "lon": -71.44796269999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJOwXXMxU0s0wRWJMpoBPLdFY",
+    "name": "CVS Pharmacy",
+    "address": "220 Union Ave, Laconia, NH 03246, USA",
+    "city": "Laconia",
+    "lat": 43.5310105,
+    "lon": -71.46537219999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJjecaV742s0wRc-Y7joGqlPg",
+    "name": "Hannaford Pharmacy",
+    "address": "1425 Lake Shore Rd D, Gilford, NH 03249, USA",
+    "city": "Gilford",
+    "lat": 43.5618755,
+    "lon": -71.44422569999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ-_xlu782s0wRO9OVH_OJP4k",
+    "name": "Walmart Pharmacy",
+    "address": "1458 Lake Shore Rd, Gilford, NH 03249, USA",
+    "city": "Gilford",
+    "lat": 43.566716299999996,
+    "lon": -71.4387957,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJG9f-uWk0s0wRdB5vmq4mMjk",
+    "name": "Walgreens Pharmacy",
+    "address": "45 Court St Walgreens, Laconia, NH 03246, USA",
+    "city": "Laconia",
+    "lat": 43.5253625,
+    "lon": -71.469679,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJr15eRGAls0wRGdBiAPQs59U",
+    "name": "Walgreens Pharmacy",
+    "address": "50 S Main St, Wolfeboro, NH 03894, USA",
+    "city": "Wolfeboro",
+    "lat": 43.5854749,
+    "lon": -71.2115757,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJB66Hk6JHs0wRM5eYFOftrZc",
+    "name": "Rite Aid Pharmacy",
+    "address": "89 NH-25, Meredith, NH 03253, USA",
+    "city": "Meredith",
+    "lat": 43.6618304,
+    "lon": -71.4924583,
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  {
+    "place_id": "ChIJD09bNRU0s0wRzT3qkDfu-Do",
+    "name": "Genoa Healthcare",
+    "address": "40 Beacon St E Suite #103, Laconia, NH 03246, USA",
+    "city": "Laconia",
+    "lat": 43.5277582,
+    "lon": -71.4693266,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq6rqUL42s0wRTfi7Nu9e8RA",
+    "name": "Jared Tucker",
+    "address": "1425 Lake Shore Rd, Gilford, NH 03249, USA",
+    "city": "Gilford",
+    "lat": 43.561704899999995,
+    "lon": -71.44413089999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ__8_x2k0s0wRWf4KUXEE2no",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "45 Court St Walgreens, Laconia, NH 03246, USA",
+    "city": "Laconia",
+    "lat": 43.5253412,
+    "lon": -71.46979809999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJnU7vm2w0s0wRQ3RXpHYN2iM",
+    "name": "Moran Nicole",
+    "address": "85 Spring St # 503, Laconia, NH 03246, USA",
+    "city": "Laconia",
+    "lat": 43.528644799999995,
+    "lon": -71.4622066,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJSQuYIMFltUwRPJs0s_BYzbs",
+    "name": "Walgreens Pharmacy",
+    "address": "1 Prince Ln, Bristol, VT 05443, USA",
+    "city": "Bristol",
+    "lat": 44.133654,
+    "lon": -73.07769619999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzZEoJxqTykwRwc7ZvzKDtRU",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "7550 Court St, Elizabethtown, NY 12932, USA",
+    "city": "Elizabethtown",
+    "lat": 44.2135196,
+    "lon": -73.5945899,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJQ7UeKoqiykwRg1kKBQaClCE",
+    "name": "Moriah Pharmacy",
+    "address": "4315 Main St, Port Henry, NY 12974, USA",
+    "city": "Port Henry",
+    "lat": 44.0480649,
+    "lon": -73.4597782,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJz7WAoq6jykwRQ22xXm8a5Zs",
+    "name": "Adirondack Apothecary",
+    "address": "4315 S Main St, Port Henry, NY 12974, USA",
+    "city": "Port Henry",
+    "lat": 44.0462032,
+    "lon": -73.4595818,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJQcbc0xaftUwRAjThyWBl0yc",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "80 S Main St, Waterbury, VT 05676, USA",
+    "city": "Waterbury",
+    "lat": 44.335280999999995,
+    "lon": -72.7529857,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJN42JFMIHtUwRYcjqNc4XMU4",
+    "name": "CVS Pharmacy",
+    "address": "1634 US-302, Barre, VT 05641, USA",
+    "city": "Barre",
+    "lat": 44.2316888,
+    "lon": -72.5530354,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJCfr_QS4GtUwRpxPJZRaXVSg",
+    "name": "Shaw's Pharmacy",
+    "address": "160 Paine Turnpike N, Berlin, VT 05602, USA",
+    "city": "Berlin",
+    "lat": 44.2110815,
+    "lon": -72.57285,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJCYssFs0HtUwRpixuY7BVHro",
+    "name": "Walmart Pharmacy",
+    "address": "282 Berlin Mall Rd, Berlin, VT 05602, USA",
+    "city": "Berlin",
+    "lat": 44.216094299999995,
+    "lon": -72.564979,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJixYNDKQPtUwRlOqT5UVG0qU",
+    "name": "Northfield Pharmacy",
+    "address": "14 Depot Square # 1, Northfield, VT 05663, USA",
+    "city": "Northfield",
+    "lat": 44.1488261,
+    "lon": -72.656446,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzXRz1PyntUwRL5QvUQy1POw",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "69 Main St, Montpelier, VT 05602, USA",
+    "city": "Montpelier",
+    "lat": 44.2596595,
+    "lon": -72.5752559,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJj8r-lFTDVkARMqXUxAcvt1o",
+    "name": "Hannaford Pharmacy",
+    "address": "456 S Barre Rd, Barre, VT 05641, USA",
+    "city": "Barre",
+    "lat": 44.174125,
+    "lon": -72.50585699999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJTcIqWPxytUwRpSSy_zjDsZ0",
+    "name": "Mad River Veterinary Service",
+    "address": "637 Mill Brook Rd Bldg A, Waitsfield, VT 05673, USA",
+    "city": "Waitsfield",
+    "lat": 44.1827168,
+    "lon": -72.855113,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJFVpQ4N8HtUwRs_q_9wRAels",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "800 US Rt. 302-Berlin, Barre, VT 05641, USA",
+    "city": "Barre",
+    "lat": 44.2217366,
+    "lon": -72.5457784,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJC3UN_tartUwRGxFQalwgsXI",
+    "name": "The Health Center",
+    "address": "157 Towne Ave, Plainfield, VT 05667, USA",
+    "city": "Plainfield",
+    "lat": 44.27747,
+    "lon": -72.4330425,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq6raH9wGtUwRVo2m5nieoI8",
+    "name": "Walgreens Pharmacy",
+    "address": "355 N Main St, Barre, VT 05641, USA",
+    "city": "Barre",
+    "lat": 44.2016851,
+    "lon": -72.5058373,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJ87An930tEwRJKHjmVVqOEA",
+    "name": "Walmart Pharmacy",
+    "address": "4901 Dartmouth College Hwy, Woodsville, NH 03785, USA",
+    "city": "Woodsville",
+    "lat": 44.1406336,
+    "lon": -72.0264737,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJUQwqHhL1tEwRFy9_MeCN2mE",
+    "name": "Shaw's Pharmacy",
+    "address": "15 Forest St, Woodsville, NH 03785, USA",
+    "city": "Woodsville",
+    "lat": 44.1444549,
+    "lon": -72.0290278,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPRKyv5j1tEwRPNK-BQTHkKo",
+    "name": "Dennis H. Straight, BSRPH",
+    "address": "41 Main St N, Wells River, VT 05081, USA",
+    "city": "Wells River",
+    "lat": 44.1530184,
+    "lon": -72.0467647,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJodB7dL9otEwRhWhG4bzJXaI",
+    "name": "Walmart Pharmacy",
+    "address": "615 Meadow St, Littleton, NH 03561, USA",
+    "city": "Littleton",
+    "lat": 44.3046945,
+    "lon": -71.79856099999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJjbV5dL9otEwRgb0RoOa6Pw0",
+    "name": "Shaw's Pharmacy",
+    "address": "625 Meadow St, Littleton, NH 03561, USA",
+    "city": "Littleton",
+    "lat": 44.3029173,
+    "lon": -71.8015659,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq6pZQcNotEwRYkaTTFIKU9Y",
+    "name": "Walgreens Pharmacy",
+    "address": "274 Dells Rd, Littleton, NH 03561, USA",
+    "city": "Littleton",
+    "lat": 44.30908060000001,
+    "lon": -71.7975855,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJQ2jyniZvtEwRtfM14-rGBZw",
+    "name": "Eastern States Compounding Pharmacy",
+    "address": "338 Union St, Littleton, NH 03561, USA",
+    "city": "Littleton",
+    "lat": 44.3082322,
+    "lon": -71.7587885,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJHwvPNNBotEwRzNwYF0wCb8Y",
+    "name": "Rite Aid Pharmacy",
+    "address": "136 Meadow St, Littleton, NH 03561, USA",
+    "city": "Littleton",
+    "lat": 44.3091112,
+    "lon": -71.7862866,
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  {
+    "place_id": "ChIJaVTtyuVptEwRopiu1n1aCGg",
+    "name": "North Country Pharmacy | Littleton Regional Healthcare",
+    "address": "580 St Johnsbury Rd, Littleton, NH 03561, USA",
+    "city": "Littleton",
+    "lat": 44.3174539,
+    "lon": -71.8253494,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPypA0zlvtEwRfEtfJsaaJL8",
+    "name": "Northern New England Pharmacy",
+    "address": "262 Cottage St #116, Littleton, NH 03561, USA",
+    "city": "Littleton",
+    "lat": 44.298329599999995,
+    "lon": -71.7693266,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJS4mEWJRvtEwRZ1KqElKMcUk",
+    "name": "Genoa Healthcare",
+    "address": "25 Mt Eustis Rd, Littleton, NH 03561, USA",
+    "city": "Littleton",
+    "lat": 44.300144499999995,
+    "lon": -71.7693245,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ20lBP2NptEwRkXB0enr_szk",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "274 Dells Rd, Littleton, NH 03561, USA",
+    "city": "Littleton",
+    "lat": 44.3090936,
+    "lon": -71.797606,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJndKJCVehs0wR0ayJimKAQO0",
+    "name": "Valley Independent Pharmacy",
+    "address": "3631 White Mountain Hwy, North Conway, NH 03860, USA",
+    "city": "North Conway",
+    "lat": 44.074799299999995,
+    "lon": -71.1392055,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJxMJnzx8ykwRVfRFaoEHOTs",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "47 Executive Dr, Shelburne, VT 05482, USA",
+    "city": "Shelburne",
+    "lat": 44.4066206,
+    "lon": -73.2156164,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJXzw_k7B3ykwRd8q8FTgKHRM",
+    "name": "Price Chopper Pharmacy",
+    "address": "90 Center Rd, Essex Junction, VT 05452, USA",
+    "city": "Essex Junction",
+    "lat": 44.5117756,
+    "lon": -73.06587750000001,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJT7Vh6fZ6ykwRYWoQ4CArYL0",
+    "name": "CVS Pharmacy",
+    "address": "35 Church St, Burlington, VT 05401, USA",
+    "city": "Burlington",
+    "lat": 44.4795166,
+    "lon": -73.2128901,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJg9x5OkN6ykwRPsAQogsYpSU",
+    "name": "Pharmacy, University of Vermont Medical Center",
+    "address": "Main Campus, Main Lobby, 111 Colchester Ave Level 3, Burlington, VT 05401, USA",
+    "city": "Main Lobby",
+    "lat": 44.47977900000001,
+    "lon": -73.194611,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJU_ds5_V6ykwRWVFUSJrB0SU",
+    "name": "Lakeside Pharmacy",
+    "address": "242 Pearl St, Burlington, VT 05401, USA",
+    "city": "Burlington",
+    "lat": 44.4807158,
+    "lon": -73.2090145,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJcadkpIZ5ykwRJxAur81d7tY",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "1653 Williston Rd, South Burlington, VT 05403, USA",
+    "city": "South Burlington",
+    "lat": 44.4635727,
+    "lon": -73.1589547,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJC8JozvR_tUwRK8rsyKexynU",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "10212 Rte 116, Hinesburg, VT 05461, USA",
+    "city": "Hinesburg",
+    "lat": 44.334987299999995,
+    "lon": -73.1130957,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq-XIhoVwykwRfG6YPFBEK44",
+    "name": "Shaw's Pharmacy",
+    "address": "66 Mountain View Dr, Colchester, VT 05446, USA",
+    "city": "Colchester",
+    "lat": 44.5089636,
+    "lon": -73.180981,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJMdi7NDF6ykwRsrtz2KByJUs",
+    "name": "CVS Pharmacy",
+    "address": "1 Dorset St, South Burlington, VT 05403, USA",
+    "city": "South Burlington",
+    "lat": 44.468782499999996,
+    "lon": -73.1821463,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJP6HmRvd4ykwR1u6vvlXkk18",
+    "name": "Shaw's Pharmacy",
+    "address": "71 Boxwood St, Williston, VT 05495, USA",
+    "city": "Williston",
+    "lat": 44.4470302,
+    "lon": -73.1084478,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ3TOhi_l4ykwRCUvFrZJE8_M",
+    "name": "CVS Pharmacy",
+    "address": "49 Wright Ave, Williston, VT 05495, USA",
+    "city": "Williston",
+    "lat": 44.4469164,
+    "lon": -73.11139589999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJbw_5Lrx7ykwReMfi3ESkWFw",
+    "name": "Shaw's Pharmacy",
+    "address": "570 Shelburne Rd, Burlington, VT 05401, USA",
+    "city": "Burlington",
+    "lat": 44.4494115,
+    "lon": -73.2071768,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJA80eBeN4ykwRKwXNBJckTho",
+    "name": "Walmart Pharmacy",
+    "address": "863 Harvest Ln, Williston, VT 05495, USA",
+    "city": "Williston",
+    "lat": 44.441581799999994,
+    "lon": -73.1222042,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJO-B3vVVlykwRE5ISMX0rg9A",
+    "name": "Vermont Family Pharmacy",
+    "address": "1219 North Ave, Burlington, VT 05408, USA",
+    "city": "Burlington",
+    "lat": 44.508596999999995,
+    "lon": -73.24738099999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJu0f6JDN7ykwRRmrZsnNK1Bc",
+    "name": "Walgreens Pharmacy",
+    "address": "39 Hinesburg Rd, South Burlington, VT 05403, USA",
+    "city": "South Burlington",
+    "lat": 44.465783099999996,
+    "lon": -73.1715906,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ-66kqp5wykwRheeV_PRGY00",
+    "name": "Costco Pharmacy",
+    "address": "218 Lower Mountain View Dr, Colchester, VT 05446, USA",
+    "city": "Colchester",
+    "lat": 44.5038592,
+    "lon": -73.17433129999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzfrezxiZVkARNILspuoA89M",
+    "name": "Hannaford Pharmacy",
+    "address": "217 Dorset St, South Burlington, VT 05403, USA",
+    "city": "South Burlington",
+    "lat": 44.4621333,
+    "lon": -73.1838875,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJce0iOaF3ykwRN8owa22llWk",
+    "name": "Hannaford Pharmacy",
+    "address": "21A Essex Way, Essex Junction, VT 05452, USA",
+    "city": "Essex Junction",
+    "lat": 44.5071379,
+    "lon": -73.0839139,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJCfJ4oF56ykwRDBhbZGG1X_I",
+    "name": "Pharmacy - 1 South Prospect, University of Vermont Medical Center",
+    "address": "1 South Prospect Street Arnold, Level 1, Burlington, VT 05401, USA",
+    "city": "Level 1",
+    "lat": 44.4802153,
+    "lon": -73.20127939999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJRWgw6dh3ykwRyqcJd0J2pGs",
+    "name": "Walgreens Pharmacy",
+    "address": "5 Joshua Way, Essex Junction, VT 05452, USA",
+    "city": "Essex Junction",
+    "lat": 44.5045633,
+    "lon": -73.1367046,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJqZS_2sqXtUwREYj7NYP2JL8",
+    "name": "Lamoille Health Pharmacy",
+    "address": "1878 Mountain Rd, Stowe, VT 05672, USA",
+    "city": "Stowe",
+    "lat": 44.4745121,
+    "lon": -72.7135648,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJpQ7ty8CXtUwRzPzpWILf-wE",
+    "name": "Mountainside Pharmacy",
+    "address": "45 Old Farm Rd, Stowe, VT 05672, USA",
+    "city": "Stowe",
+    "lat": 44.4523795,
+    "lon": -72.6960472,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJG4rgpzCftUwR8LbStAZ1C-4",
+    "name": "Shaw's Pharmacy",
+    "address": "820 Waterbury-Stowe Rd, Waterbury, VT 05676, USA",
+    "city": "Waterbury",
+    "lat": 44.347468000000006,
+    "lon": -72.743814,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJI85F47jqtUwRoYr-CW4Jads",
+    "name": "Lamoille Health Partners",
+    "address": "609 Washington Hwy, Morrisville, VT 05661, USA",
+    "city": "Morrisville",
+    "lat": 44.554352,
+    "lon": -72.5888604,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJfdON7_qtUwR92oUotdoRHw",
+    "name": "CVS Pharmacy",
+    "address": "13 VT-15 E, MORRISVILLE, VT 05661, USA",
+    "city": "MORRISVILLE",
+    "lat": 44.5759798,
+    "lon": -72.592125,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ9WqquVj0tUwR1A5bPgAcSRA",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "155 S Main St, Cambridge, VT 05444, USA",
+    "city": "Cambridge",
+    "lat": 44.644549,
+    "lon": -72.8778627,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJu6SQkcfqtUwRMBLPX1aVtzA",
+    "name": "Hannaford Pharmacy",
+    "address": "80 Fairground Plz Route 100, Morrisville, VT 05661, USA",
+    "city": "Morrisville",
+    "lat": 44.5727725,
+    "lon": -72.5967955,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJVVWVP1GVtUwRYASaNH0UPbc",
+    "name": "Lamoille Health Family Medicine- Morrisville",
+    "address": "609 Washington Hwy, Morrisville, VT 05661, USA",
+    "city": "Morrisville",
+    "lat": 44.5544966,
+    "lon": -72.5887563,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJfx1EtMLrtUwRZBR5wXA-Auw",
+    "name": "Genoa Healthcare",
+    "address": "72 Harrel St, Morrisville, VT 05661, USA",
+    "city": "Morrisville",
+    "lat": 44.5680616,
+    "lon": -72.59599039999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJu1p_zXrrtUwRbhhwjZ6D_DY",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "97 Morrisville Plaza, Morrisville, VT 05661, USA",
+    "city": "Morrisville",
+    "lat": 44.5745875,
+    "lon": -72.59174399999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJrbdsHO43tEwRNM6zJGOjw2A",
+    "name": "Walgreens Pharmacy",
+    "address": "412 Broad St, Lyndonville, VT 05851, USA",
+    "city": "Lyndonville",
+    "lat": 44.525828,
+    "lon": -72.0002416,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ6Y0B8LJHtEwRd9e5GGue6Ns",
+    "name": "Genoa Healthcare",
+    "address": "2225 Portland St Room 160 P, St Johnsbury, VT 05819, USA",
+    "city": "St Johnsbury",
+    "lat": 44.4300905,
+    "lon": -71.97629909999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJSThZ2OE3tEwRgGIRBg2YW14",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "407 Broad St, Lyndonville, VT 05851, USA",
+    "city": "Lyndonville",
+    "lat": 44.5257228,
+    "lon": -72.0015286,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJP0_x-8w3tEwRxCX4Zz-vRFs",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "412 Broad St, Lyndonville, VT 05851, USA",
+    "city": "Lyndonville",
+    "lat": 44.525842999999995,
+    "lon": -72.0002535,
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  {
+    "place_id": "ChIJP4ihL5bxs0wR7eqSuETNdFQ",
+    "name": "Walmart Pharmacy",
+    "address": "561 Main St, Gorham, NH 03581, USA",
+    "city": "Gorham",
+    "lat": 44.4261955,
+    "lon": -71.19389780000002,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJAQBQ1onws0wRHCdG7MwwROM",
+    "name": "Walgreens Pharmacy",
+    "address": "173 Pleasant St, Berlin, NH 03570, USA",
+    "city": "Berlin",
+    "lat": 44.4703982,
+    "lon": -71.1813653,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_wouhcARtEwRRG1PmUIaF_Y",
+    "name": "Rite Aid Pharmacy",
+    "address": "177 Main St, Lancaster, NH 03584, USA",
+    "city": "Lancaster",
+    "lat": 44.494216699999996,
+    "lon": -71.5720511,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJqbDu9hsRtEwRRI-_etmg8oo",
+    "name": "North Country Healthcare Pharmacy",
+    "address": "173 Middle St Suite 170, Lancaster, NH 03584, USA",
+    "city": "Lancaster",
+    "lat": 44.4854717,
+    "lon": -71.5544121,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJMdFyiwgRtEwR8O-AHL-XnG0",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "177 Main St, Lancaster, NH 03584, USA",
+    "city": "Lancaster",
+    "lat": 44.494216699999996,
+    "lon": -71.5720511,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJyfyDG2QRtEwRmmMb7iiKCO4",
+    "name": "Walgreens Pharmacy",
+    "address": "177 Main St, Lancaster, NH 03584, USA",
+    "city": "Lancaster",
+    "lat": 44.494220399999996,
+    "lon": -71.572051,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ4UG8J4E4ykwRPQNQL-GXD6k",
+    "name": "CVS Pharmacy",
+    "address": "60 Smithfield Blvd Suite 49, Plattsburgh, NY 12901, USA",
+    "city": "Plattsburgh",
+    "lat": 44.7024043,
+    "lon": -73.4909007,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJpRjtKLk4ykwRsdAi_ChKFbY",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "6 Veterans Ln, Plattsburgh, NY 12901, USA",
+    "city": "Plattsburgh",
+    "lat": 44.7093797,
+    "lon": -73.4562893,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ9c0OAI9HykwRp2uCrP6tv88",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "1588 Military Turnpike, Plattsburgh, NY 12901, USA",
+    "city": "Plattsburgh",
+    "lat": 44.694823199999995,
+    "lon": -73.5159221,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJXeumCWxyykwRY4F7RSnEd6w",
+    "name": "Community Health Pharmacy",
+    "address": "158 Brentwood Dr # 6, Colchester, VT 05446, USA",
+    "city": "Colchester",
+    "lat": 44.5954772,
+    "lon": -73.1707689,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJwSqN4-16ykwREfUaPPS78Tg",
+    "name": "Hannaford Pharmacy",
+    "address": "1127 North Ave Suite 11, Burlington, VT 05408, USA",
+    "city": "Burlington",
+    "lat": 44.5063537,
+    "lon": -73.247007,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJed7bWX5HykwRPDGOF5zM7bE",
+    "name": "Market 32 Pharmacy",
+    "address": "19 Centre Dr, Plattsburgh, NY 12901, USA",
+    "city": "Plattsburgh",
+    "lat": 44.6953776,
+    "lon": -73.4923759,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_fkM23xHykwRW8n1X6lsVLM",
+    "name": "Walmart Pharmacy",
+    "address": "25 Consumer Square, Plattsburgh, NY 12901, USA",
+    "city": "Plattsburgh",
+    "lat": 44.692101,
+    "lon": -73.48772570000001,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ75LB_4RwykwRxmEB9qvFN0o",
+    "name": "CVS Pharmacy",
+    "address": "69 Mountain View Dr, Colchester, VT 05446, USA",
+    "city": "Colchester",
+    "lat": 44.5070054,
+    "lon": -73.18146159999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ45KZZhN7ykwRyOjo9ZgIDTE",
+    "name": "Walgreens Pharmacy",
+    "address": "321 Main St C, Winooski, VT 05404, USA",
+    "city": "Winooski",
+    "lat": 44.498364599999995,
+    "lon": -73.18396369999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJOUjdSZ44ykwR_wV92DgTjOg",
+    "name": "Walgreens Pharmacy",
+    "address": "301 Cornelia St, Plattsburgh, NY 12901, USA",
+    "city": "Plattsburgh",
+    "lat": 44.696681299999995,
+    "lon": -73.47600729999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJxxNiSUJ7ykwRF7-DeCRHDJg",
+    "name": "Community Health Centers \u2013 Pharmacy",
+    "address": "617 Riverside Ave. Suite 1, Burlington, VT 05401, USA",
+    "city": "Burlington",
+    "lat": 44.490128899999995,
+    "lon": -73.20612059999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJs57b4d9yykwRjboQ0Kbtn4M",
+    "name": "Hannaford Pharmacy",
+    "address": "259 US-7, Milton, VT 05468, USA",
+    "city": "Milton",
+    "lat": 44.623648599999996,
+    "lon": -73.12237449999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq6o6PvH_yUwR2eU97jbW5ws",
+    "name": "Walgreens Pharmacy",
+    "address": "221 Main St, Enosburg Falls, VT 05450, USA",
+    "city": "Enosburg Falls",
+    "lat": 44.905623,
+    "lon": -72.806579,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJa2Sag-j_yUwRBD_lE5uubK0",
+    "name": "Cold Hollow Family Practice",
+    "address": "84 Water Tower Rd Suite 1, Enosburg Falls, VT 05450, USA",
+    "city": "Enosburg Falls",
+    "lat": 44.914563,
+    "lon": -72.7967716,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJgeQYV8IaykwRUXdm-bfzEz4",
+    "name": "Walgreens Pharmacy",
+    "address": "133 N Main St #23, St Albans City, VT 05478, USA",
+    "city": "St Albans City",
+    "lat": 44.8153108,
+    "lon": -73.0813538,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ65TXLRAbykwRZ-b_lkifVhg",
+    "name": "Hannaford Pharmacy",
+    "address": "290 Highgate Cmns Rd, St Albans City, VT 05478, USA",
+    "city": "St Albans City",
+    "lat": 44.840531,
+    "lon": -73.079121,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ6___awkbykwRZjSWK1js3uQ",
+    "name": "Walmart Pharmacy",
+    "address": "700 Tuckers Wy, St Albans City, VT 05478, USA",
+    "city": "St Albans City",
+    "lat": 44.8419113,
+    "lon": -73.0897051,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJYX-ZxRobykwRqjXRDsZNgMA",
+    "name": "Price Chopper Pharmacy",
+    "address": "170 Swanton Rd, St Albans City, VT 05478, USA",
+    "city": "St Albans City",
+    "lat": 44.835498199999996,
+    "lon": -73.08385179999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPVforY4bykwR1sxBQswG1Tk",
+    "name": "St. Albans Pharmacy",
+    "address": "3 Crest Rd, St Albans City, VT 05478, USA",
+    "city": "St Albans City",
+    "lat": 44.806855399999996,
+    "lon": -73.0706089,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJnQADfZ8NykwR9Bj-e9l4HcM",
+    "name": "Walgreens Pharmacy",
+    "address": "201 US-7, Milton, VT 05468, USA",
+    "city": "Milton",
+    "lat": 44.6252006,
+    "lon": -73.1191503,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJRasPeg8LykwRC8aNRNYE2xs",
+    "name": "Fairfax Pharmacy",
+    "address": "997 Main St, Fairfax, VT 05454, USA",
+    "city": "Fairfax",
+    "lat": 44.656769,
+    "lon": -73.008477,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ-XtuBaAbykwRsTquPIKI1oY",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "164 Swanton Rd, St Albans City, VT 05478, USA",
+    "city": "St Albans City",
+    "lat": 44.8356961,
+    "lon": -73.0809818,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJbY7dC5RxtkwRFD63ovapzug",
+    "name": "Walmart Pharmacy",
+    "address": "115 Seymour Dr, Newport, VT 05855, USA",
+    "city": "Newport",
+    "lat": 44.9504191,
+    "lon": -72.1716311,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJccg_vF3XtUwRlZtA9TS8hJs",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "16 Church St, Barton, VT 05822, USA",
+    "city": "Barton",
+    "lat": 44.750834499999996,
+    "lon": -72.1804626,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJYb-7TeJxtkwR4XRUby5G2F0",
+    "name": "Michael A. Omar, BS",
+    "address": "189 Prouty Dr, Newport, VT 05855, USA",
+    "city": "Newport",
+    "lat": 44.9557942,
+    "lon": -72.20088179999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ2WZlV8JxtkwR7MGUgrllOaQ",
+    "name": "Genoa Healthcare",
+    "address": "181 Crawford Rd Room 130, Newport, VT 05855, USA",
+    "city": "Newport",
+    "lat": 44.949202899999996,
+    "lon": -72.16225969999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJU_b8gZyXtkwR8o0kElBFZj0",
+    "name": "Walgreens Pharmacy",
+    "address": "91 Main St, Colebrook, NH 03576, USA",
+    "city": "Colebrook",
+    "lat": 44.8925802,
+    "lon": -71.4981585,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJSzuoXhG9tkwRgPKVsA1BZDE",
+    "name": "North Country Healthcare Colebrook Pharmacy",
+    "address": "141 Corliss Ln, Colebrook, NH 03576, USA",
+    "city": "Colebrook",
+    "lat": 44.904226699999995,
+    "lon": -71.48221749999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJLZ08vbqXtkwRaXKcbiILOGI",
+    "name": "COVID-19 Drive-Thru Testing at Walgreens",
+    "address": "91 Main St, Colebrook, NH 03576, USA",
+    "city": "Colebrook",
+    "lat": 44.8925853,
+    "lon": -71.4982029,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzaaivDWiyUwRVJqx5QEulHs",
+    "name": "Uniprix Pharmacie Marc - Andr\u00e9 Pilon & Joanie Landry - Pharmacie affili\u00e9e",
+    "address": "400 Bd du S\u00e9minaire N A1, Saint-Jean-sur-Richelieu, QC J3B 5L2, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.311547,
+    "lon": -73.267044,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJT3Vp38qjyUwRnlgAsTf3RtQ",
+    "name": "Brunet Alexandre Van Acker-Dugas et Nicolas Provost pharm. prop. Affili\u00e9s",
+    "address": "383 Bd du S\u00e9minaire N, Saint-Jean-sur-Richelieu, QC J3B 8C5, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.311632499999995,
+    "lon": -73.2638058,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJGQFun0GiyUwRfkOM7p81LdI",
+    "name": "Familiprix",
+    "address": "286 Rue Mayrand, Saint-Jean-sur-Richelieu, QC J3B 3L6, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.2987418,
+    "lon": -73.26617089999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ1y57gfyiyUwROp7GhCQ3Tx8",
+    "name": "Brunet C. Forgues, pharm. prop. Affili\u00e9e",
+    "address": "725 Boul. d'Iberville, Saint-Jean-sur-Richelieu, QC J2X 4S7, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.3061314,
+    "lon": -73.2315133,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJpTXFbfuiyUwRNkKRyV2pg8k",
+    "name": "Uniprix A Sabatier, A Perazzelli, G Latulippe et J-S Blais",
+    "address": "795 Boul. d'Iberville, Saint-Jean-sur-Richelieu, QC J2X 4S7, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.304598,
+    "lon": -73.230459,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJi1UQvMujyUwRUY5INoq6XWo",
+    "name": "Familiprix Clinique",
+    "address": "620 Bd du S\u00e9minaire N, Saint-Jean-sur-Richelieu, QC J3B 7B4, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.318852,
+    "lon": -73.2645275,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJL3NcyBzvyUwREOWsHN1cn9o",
+    "name": "Proxim Pier-Alexandre Rioux",
+    "address": "9 Pl. de l'Estrie, Bedford, QC J0J 1A0, Canada",
+    "city": "Bedford",
+    "lat": 45.120014999999995,
+    "lon": -72.986728,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ8TmxfMqFyUwRwN1ID8YmStw",
+    "name": "Brunet F. Liang Guo Wa Leong Koan, pharm. prop. Affili\u00e9",
+    "address": "71 Rue de l'\u00c9glise N, Lacolle, QC J0J 1J0, Canada",
+    "city": "Lacolle",
+    "lat": 45.086419799999994,
+    "lon": -73.37370899999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJu_Y3e4CiyUwRuKdiYP_3SpU",
+    "name": "Uniprix Francis Gince - Pharmacie affili\u00e9e",
+    "address": "395 Rue Jacques-Cartier S, Saint-Jean-sur-Richelieu, QC J3B 7T1, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.277999,
+    "lon": -73.256317,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJt5X7mlKcyUwRs3mRlVEfo9c",
+    "name": "Proxim Pharmacie Thomas-Louis Marcoux Inc",
+    "address": "515 Rue Saint-Jacques, Napierville, QC J0J 1L0, Canada",
+    "city": "Napierville",
+    "lat": 45.19274,
+    "lon": -73.412733,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJO43oU1ecyUwRhM1PwwQaKqI",
+    "name": "Uniprix Marie-Claude \u00c9mond & Myriam Drouin - Pharmacie affili\u00e9e",
+    "address": "343 Rue Saint-Jacques, Napierville, QC J0J 1L0, Canada",
+    "city": "Napierville",
+    "lat": 45.187148,
+    "lon": -73.40596599999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJf8vawyzsyUwR_fNvxda4SoI",
+    "name": "Familiprix",
+    "address": "2 Rue Adh\u00e9mar Cusson Suite 1, Bedford, QC J0J 1A0, Canada",
+    "city": "Bedford",
+    "lat": 45.126335,
+    "lon": -72.985025,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJMwVWn3eNyUwR356ULdOGH5U",
+    "name": "Proxim pharmacie affili\u00e9e - Aubin et Godbout",
+    "address": "211 16e Avenue O #120, Venise-en-Qu\u00e9bec, QC J0J 2K0, Canada",
+    "city": "Venise-en-Qu\u00e9bec",
+    "lat": 45.085148200000006,
+    "lon": -73.15266079999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJh1AHRsyFyUwRWXJEOF8VUJM",
+    "name": "Proxim Pearl Bouchard",
+    "address": "60 QC-202 #200, Lacolle, QC J0J 1J0, Canada",
+    "city": "Lacolle",
+    "lat": 45.0723603,
+    "lon": -73.3571249,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJnbmc1kqiyUwRNrtYeVoGQ4Y",
+    "name": "Proxim Martine Clou\u00e2tre, pharmacienne",
+    "address": "145 Boulevard Saint-Joseph #101, Saint-Jean-sur-Richelieu, QC J3B 1W5, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.314462,
+    "lon": -73.25760300000002,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJP_Alr_miyUwRHZ_d0WgPTFY",
+    "name": "Uniprix Clinique Ralph Mokbel et Viviane Calabrese - Pharmacie affili\u00e9e",
+    "address": "235 2e Avenue #102, Saint-Jean-sur-Richelieu, QC J2X 2B2, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.303979600000005,
+    "lon": -73.2374936,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJQ4VdcuGVyUwRIqMJ6A0k-3M",
+    "name": "Familiprix Clinique",
+    "address": "433 Rue Saint-Denis, St-Alexandre-D'iberville, QC J0J 1S0, Canada",
+    "city": "St-Alexandre-D'iberville",
+    "lat": 45.239503899999995,
+    "lon": -73.1157987,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJTf_Zi8LFuEwRtxf4XsvCRUY",
+    "name": "Proxim pharmacie affili\u00e9e Boyi Lu, Jean-S\u00e9bastien Blais et Guillaume Latulippe",
+    "address": "122 Rue Saint-Jacques, Saint-Jean-sur-Richelieu, QC J3B 2K1, Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "lat": 45.306039,
+    "lon": -73.25476499999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJAXX_HT2ZyUwRC3-r5wm-f-Q",
+    "name": "Familiprix Clinique",
+    "address": "767 Rue Principale, Saint-Blaise-sur-Richelieu, QC J0J 1W0, Canada",
+    "city": "Saint-Blaise-sur-Richelieu",
+    "lat": 45.2101931,
+    "lon": -73.2864096,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_bcInbx_yUwRiWvy1ZGB8_I",
+    "name": "Familiprix Clinique",
+    "address": "535 Rue Fronti\u00e8re, Hemmingford, QC J0L 1H0, Canada",
+    "city": "Hemmingford",
+    "lat": 45.047447999999996,
+    "lon": -73.58785499999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJufpbNIndyUwRgqPzGxMA7FU",
+    "name": "PJC Jean Coutu",
+    "address": "526 Rue du Sud, Cowansville, QC J2K 2X8, Canada",
+    "city": "Cowansville",
+    "lat": 45.2030362,
+    "lon": -72.7475791,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ43DpmJzAyUwRGKbO-nBQvKE",
+    "name": "PJC Jean Coutu",
+    "address": "400 Rue Meigs, Farnham, QC J2N 2C8, Canada",
+    "city": "Farnham",
+    "lat": 45.2834833,
+    "lon": -72.9793607,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJU77KbHsetkwRBzwHbr0JZ2I",
+    "name": "Brunet, Sutton",
+    "address": "25 Rue Principale N, Sutton, QC J0E 2K0, Canada",
+    "city": "Sutton",
+    "lat": 45.1079107,
+    "lon": -72.6169807,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJC6Mm-47dyUwRzAcba8P85As",
+    "name": "Familiprix Sant\u00e9",
+    "address": "1599 Rue du Sud #106, Cowansville, QC J2K 2Z4, Canada",
+    "city": "Cowansville",
+    "lat": 45.191227,
+    "lon": -72.753328,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJoale5I_dyUwRYnDAAIkpX7o",
+    "name": "Uniprix Jean-Paul Duong, Peter Duong et Soufiane Tahir",
+    "address": "101 Rue Albert, Cowansville, QC J2K 2W4, Canada",
+    "city": "Cowansville",
+    "lat": 45.207774,
+    "lon": -72.748812,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJOc6_f5zAyUwRoDlT5K6W61w",
+    "name": "Familiprix Sant\u00e9",
+    "address": "455 Rue Meigs, Farnham, QC J2N 2C7, Canada",
+    "city": "Farnham",
+    "lat": 45.28441,
+    "lon": -72.978211,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJdz9X-YLdyUwRym9SiOFbSys",
+    "name": "Proxim pharmacie affili\u00e9e - Duong et Duong",
+    "address": "370 Rue de la Rivi\u00e8re #205, Cowansville, QC J2K 1N3, Canada",
+    "city": "Cowansville",
+    "lat": 45.207710399999996,
+    "lon": -72.7598313,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJi856jG_nyUwRqV3AxDwiiaw",
+    "name": "Acc\u00e8s pharma - Pharmacie Jonathan Poulin (affili\u00e9e \u00e0)",
+    "address": "1770 Rue du Sud, Cowansville, QC J2K 0W2, Canada",
+    "city": "Cowansville",
+    "lat": 45.1900756,
+    "lon": -72.7578966,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJz5Ld3gADtkwRxZWMaySGlkU",
+    "name": "Richford Health Center",
+    "address": "44 Main St #200, Richford, VT 05476, USA",
+    "city": "Richford",
+    "lat": 44.996372,
+    "lon": -72.67316079999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJc3GKh4LmyUwRg_l-YSd2gXU",
+    "name": "Proxim pharmacie affili\u00e9e",
+    "address": "3737 Rue Principale, Dunham, QC J0E 1M0, Canada",
+    "city": "Dunham",
+    "lat": 45.132559,
+    "lon": -72.80021599999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJSw6M62ceykwRPpYHXKJl4KM",
+    "name": "Swanton Rexall Drugs",
+    "address": "13 York St, Swanton, VT 05488, USA",
+    "city": "Swanton",
+    "lat": 44.919092899999995,
+    "lon": -73.1228821,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJz5Ld3gADtkwRQlh7IrsHEto",
+    "name": "NOTCH Pharmacy",
+    "address": "44 Main St #201, Richford, VT 05476, USA",
+    "city": "Richford",
+    "lat": 44.996372,
+    "lon": -72.6731609,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJLf0AlY6RyUwRG09IPGdFbYw",
+    "name": "Proxim pharmacie affili\u00e9e - Hady Rofaiel et Mona Bachour",
+    "address": "131 Rue de l'\u00c9glise, Henryville, QC J0J 1E0, Canada",
+    "city": "Henryville",
+    "lat": 45.138473999999995,
+    "lon": -73.19216399999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ69bvUi7syUwRs_wBur1vhjc",
+    "name": "Ghilda Bigdeli-Azari et associ\u00e9 Pharmaciens propri\u00e9taires",
+    "address": "2 Rue Adh\u00e9mar Cusson, Bedford, QC J0J 1A0, Canada",
+    "city": "Bedford",
+    "lat": 45.1257917,
+    "lon": -72.98461449999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ7Ub9sPI3tkwR1L83Z2tsavI",
+    "name": "PJC Jean Coutu",
+    "address": "448 Rue Saint-Patrice O, Magog, QC J1X 1W9, Canada",
+    "city": "Magog",
+    "lat": 45.2670396,
+    "lon": -72.1540965,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJv5ieko03tkwRzOhef2XhMnc",
+    "name": "Uniprix Julie Bibeau et Kevin L\u00e9tourneau",
+    "address": "904 Rue Principale O, Magog, QC J1X 2B6, Canada",
+    "city": "Magog",
+    "lat": 45.268394,
+    "lon": -72.158897,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJiwppPxkwtkwR9nSRc_l60sA",
+    "name": "Proxim pharmacie affili\u00e9e - Nadia Lavertu et J\u00e9r\u00f4me B\u00e9langer",
+    "address": "21 Rue Lapointe, Eastman, QC J0E 1P0, Canada",
+    "city": "Eastman",
+    "lat": 45.300188,
+    "lon": -72.31588599999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJIdZPinI3tkwRnCqbrnQMfSs",
+    "name": "Familiprix Clinique - Anacr\u00e9on, Ngo & Sam",
+    "address": "2377 Rue Principale O, Magog, QC J1X 0J4, Canada",
+    "city": "Magog",
+    "lat": 45.2816355,
+    "lon": -72.1857625,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJyaz4hBohtkwRPk3i3MdJaLs",
+    "name": "Familiprix",
+    "address": "475 Chem. Knowlton, Knowlton, QC J0E 1V0, Canada",
+    "city": "Knowlton",
+    "lat": 45.214188,
+    "lon": -72.52914,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJp18wkkVvtkwRE1oTJi3bdaY",
+    "name": "Familiprix",
+    "address": "23 Boulevard Notre-Dame Ouest, Stanstead, QC J0B 3E2, Canada",
+    "city": "Stanstead",
+    "lat": 45.006972999999995,
+    "lon": -72.09458819999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJK2fGIGshtkwRmLJsO1JVITE",
+    "name": "Uniprix Jean-Marc B\u00e9langer - Pharmacie affili\u00e9e",
+    "address": "310 Rue Knowlton, Lac-Brome, QC J0E 1V0, Canada",
+    "city": "Lac-Brome",
+    "lat": 45.2166873,
+    "lon": -72.5121575,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJZyLzR0QRtkwRPGT6osPjBbY",
+    "name": "Familiprix",
+    "address": "316 Rue Principale, Mansonville, QC J0E 1X0, Canada",
+    "city": "Mansonville",
+    "lat": 45.052706,
+    "lon": -72.39196799999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ7Ub9sPI3tkwRGPVPxZvQAqQ",
+    "name": "Pharmacie Chicoine & Bertrand",
+    "address": "448 Rue Saint-Patrice O, Magog, QC J1X 1W9, Canada",
+    "city": "Magog",
+    "lat": 45.2670362,
+    "lon": -72.1540735,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJjQckKABxtkwRgXXULC5ht_M",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "55 Shattuck Hill Rd, Newport, VT 05855, USA",
+    "city": "Newport",
+    "lat": 44.950962399999995,
+    "lon": -72.1645163,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq6qaBY03tkwR83zlZW6DB5s",
+    "name": "Apothekaire",
+    "address": "790 Rue Principale O, Magog, QC J1X 2K1, Canada",
+    "city": "Magog",
+    "lat": 45.2671326,
+    "lon": -72.15734660000001,
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  {
+    "place_id": "ChIJOQGoLu43tkwRI8IMwOVfbDg",
+    "name": "PJC Jean Coutu",
+    "address": "231 Rue Sherbrooke, Magog, QC J1X 2R9, Canada",
+    "city": "Magog",
+    "lat": 45.2672155,
+    "lon": -72.14545679999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJWatstO83tkwR4_uvxJMouQk",
+    "name": "Pharmaprix",
+    "address": "415 Rue Sherbrooke, Magog, QC J1X 2S4, Canada",
+    "city": "Magog",
+    "lat": 45.268705,
+    "lon": -72.143474,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJHcsIcfA3tkwRVjICQGfr-wc",
+    "name": "Familiprix Extra - Anacr\u00e9on, Ngo & Sam",
+    "address": "bureau 205, 45 Rue Saint-Patrice E Bur 100, Magog, QC J1X 1T5, Canada",
+    "city": "45 Rue Saint-Patrice E Bur 100",
+    "lat": 45.265899600000004,
+    "lon": -72.1447864,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJYYs5UsZYtkwRzLKmj0i1np4",
+    "name": "PJC Jean Coutu",
+    "address": "Parking lot, 269 Rue Child, Coaticook, QC J1A 2B5, Canada",
+    "city": "269 Rue Child",
+    "lat": 45.1367585,
+    "lon": -71.804519,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJWVxS5rdYtkwRanv9exjIgp4",
+    "name": "Familiprix Extra",
+    "address": "65 Rue Wellington, Coaticook, QC J1A 2H6, Canada",
+    "city": "Coaticook",
+    "lat": 45.133487599999995,
+    "lon": -71.8024338,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJcQcj-do3tkwRycftCc-95uk",
+    "name": "Walmart Pharmacy",
+    "address": "1935 Rue Sherbrooke, Magog, QC J1X 2T5, Canada",
+    "city": "Magog",
+    "lat": 45.2818202,
+    "lon": -72.1286176,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJySgPxds3tkwRfKr8sDkKjpI",
+    "name": "Acc\u00e8s pharma - Pharmacie Karine Desrochers (affili\u00e9e \u00e0)",
+    "address": "1935 Rue Sherbrooke, Magog, QC J1X 2T5, Canada",
+    "city": "Magog",
+    "lat": 45.281756200000004,
+    "lon": -72.1287104,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJbXFTA3pEtkwRMrBMJqXukYg",
+    "name": "Uniprix Bibeau Julie et L\u00e9tourneau Kevin",
+    "address": "1086 Rue Main, Ayer's Cliff, QC J0B 1C0, Canada",
+    "city": "Ayer's Cliff",
+    "lat": 45.16811,
+    "lon": -72.04003999999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJgel1e-FRtkwRej6OqLs5y80",
+    "name": "Familiprix Clinique",
+    "address": "347 Rue Gosselin, Waterville, QC J0B 3H0, Canada",
+    "city": "Waterville",
+    "lat": 45.280265199999995,
+    "lon": -71.8978807,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJffHnydRtkwRqcDj2XEUPBA",
+    "name": "Proxim Chantal Dionne et \u00c9ric Portelance",
+    "address": "6630 Rte Louis-S.-Saint-Laurent, Compton, QC J0B 1L0, Canada",
+    "city": "Compton",
+    "lat": 45.246072,
+    "lon": -71.82858999999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ0XhWUu43tkwRloB4FVMr_I8",
+    "name": "shoppers drug mart",
+    "address": "415 Rue Sherbrooke, Magog, QC J1X 2S4, Canada",
+    "city": "Magog",
+    "lat": 45.2687287,
+    "lon": -72.1435759,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzV-1ppw3tkwR8c0ypwPmEH0",
+    "name": "Proximed pharmacie affili\u00e9e - Amnay Yassine",
+    "address": "231 Rue Dollard, Magog, QC J1X 0G7, Canada",
+    "city": "Magog",
+    "lat": 45.268693,
+    "lon": -72.14656699999999,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJfdIeTcZYtkwRsvc0hlhiEzA",
+    "name": "Marie-Noel Dupont",
+    "address": "Parking lot, 269 Rue Child, Coaticook, QC J1A 2B5, Canada",
+    "city": "269 Rue Child",
+    "lat": 45.1367386,
+    "lon": -71.80459379999999,
+    "business_status": "OPERATIONAL"
+  }
+]
