@@ -16,4 +16,5 @@ dependencies = [
     "python-dotenv",
     "jupyter",
     "scipy>=1.17.1",
+    "rich>=14.3.3",
 ]

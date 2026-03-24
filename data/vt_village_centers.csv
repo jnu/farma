@@ -1,0 +1,238 @@
+name,lon,lat,place,osm_type,osm_id,source
+Adamant,-72.5029093,44.3289984,hamlet,node,158812983,osm_overpass
+Albany,-72.3795576,44.7318355,village,node,158817291,osm_overpass
+Albany Center,-72.349551,44.7367159,hamlet,node,158809890,osm_overpass
+Alpine Village,-72.8342791,44.0686728,hamlet,node,158866866,osm_overpass
+Arlins,-71.5153972,44.9180728,hamlet,node,158906501,osm_overpass
+Averill,-71.7098576,44.9985416,hamlet,node,158806253,osm_overpass
+Baptist Hill,-71.7236757,44.4418002,hamlet,node,158868521,osm_overpass
+Barnet,-72.0495301,44.2966923,village,node,158846301,osm_overpass
+Barton,-72.1806582,44.7484736,village,node,158825946,osm_overpass
+Beebe Plain,-72.1413648,45.0054895,hamlet,node,158814099,osm_overpass
+Beecher Falls,-71.5072002,45.0085694,hamlet,node,158813532,osm_overpass
+Belvidere Center,-72.6912337,44.7500487,hamlet,node,158853339,osm_overpass
+Belvidere Junction,-72.7426254,44.7369933,hamlet,node,158817288,osm_overpass
+Berlin Corners,-72.5759414,44.2100604,hamlet,node,158855906,osm_overpass
+Bloomfield,-71.6318364,44.7535161,village,node,158804736,osm_overpass
+Brighton,-72.3240731,44.8132464,hamlet,node,5222070988,osm_overpass
+Brownington Center,-72.1463616,44.8232873,hamlet,node,158809658,osm_overpass
+Brownington Village,-72.1717681,44.8308815,hamlet,node,158810909,osm_overpass
+Browns Mill,-71.6349279,44.6840098,hamlet,node,158812105,osm_overpass
+Brunswick Springs,-71.6327336,44.7366303,hamlet,node,158797923,osm_overpass
+Bullthroat,-71.6497043,44.6669839,hamlet,node,158861498,osm_overpass
+Burke Hollow,-71.9498078,44.6226888,hamlet,node,158854736,osm_overpass
+Cabot,-72.3104466,44.4028778,village,node,158853702,osm_overpass
+Cadys Falls,-72.6121892,44.578065,hamlet,node,158804025,osm_overpass
+Calais,-72.4675733,44.3694315,village,node,6538388177,osm_overpass
+Cambridge,-72.8766075,44.6449462,village,node,158805405,osm_overpass
+Cambridge Junction,-72.816767,44.650187,hamlet,node,158855722,osm_overpass
+Campbells Corner,-72.3314945,44.591719,hamlet,node,158853498,osm_overpass
+Centerville,-72.5865132,44.61958,hamlet,node,158822293,osm_overpass
+Cleveland Corners,-72.5630423,44.594246,hamlet,node,158852835,osm_overpass
+Colbyville,-72.7423399,44.3503341,hamlet,node,158812136,osm_overpass
+Coles Corner,-72.0581876,44.4935493,hamlet,node,158855493,osm_overpass
+Concord,-71.888608,44.4288767,village,node,158809932,osm_overpass
+Concord Corner,-71.8614507,44.4015905,hamlet,node,158842799,osm_overpass
+Coventry,-72.2648552,44.8658913,village,node,158842873,osm_overpass
+Craftsbury,-72.3732957,44.6361057,village,node,158858815,osm_overpass
+Craftsbury Common,-72.3827342,44.6535578,hamlet,node,158806259,osm_overpass
+Damon Crossing,-71.8164681,44.5277612,hamlet,node,158870816,osm_overpass
+Danville,-72.1400382,44.411562,village,node,158901365,osm_overpass
+Danville Center,-72.1203726,44.4203648,hamlet,node,158798052,osm_overpass
+Derby Center,-72.1339323,44.9474125,village,node,158819194,osm_overpass
+Derby Line,-72.0996523,45.0053262,village,node,158900670,osm_overpass
+Dows Crossing,-72.2867707,44.5008876,hamlet,node,158843298,osm_overpass
+Dowsville,-72.8242844,44.2725573,hamlet,node,158807560,osm_overpass
+Duxbury,-72.7526123,44.3270717,village,node,158861225,osm_overpass
+East Albany,-72.3162167,44.7311604,hamlet,node,158808389,osm_overpass
+East Barnet Inwood Station,-72.0375941,44.3267268,hamlet,node,158838232,osm_overpass
+East Barre,-72.4503802,44.1581178,hamlet,node,158823566,osm_overpass
+East Brighton,-71.8044221,44.7859416,hamlet,node,158854642,osm_overpass
+East Brownington,-72.0857754,44.8007833,hamlet,node,158837452,osm_overpass
+East Burke,-71.9405616,44.5891497,village,node,158919136,osm_overpass
+East Cabot,-72.2512113,44.3897794,hamlet,node,158855694,osm_overpass
+East Calais,-72.429828,44.3664462,hamlet,node,158820569,osm_overpass
+East Charleston,-71.9899548,44.8379647,hamlet,node,158855517,osm_overpass
+East Concord,-71.7537501,44.4247627,hamlet,node,158842685,osm_overpass
+East Craftsbury,-72.3428064,44.6415099,hamlet,node,158899116,osm_overpass
+East Greensboro,-72.2506586,44.5714417,hamlet,node,158843152,osm_overpass
+East Hardwick,-72.3087159,44.5217205,hamlet,node,158825132,osm_overpass
+East Haven,-71.888496,44.6643659,hamlet,node,158855912,osm_overpass
+East Johnson,-72.6615081,44.6400507,hamlet,node,158875224,osm_overpass
+East Lyndon,-71.9577289,44.5198824,hamlet,node,158873295,osm_overpass
+East Montpelier,-72.4857574,44.2715266,village,node,158813860,osm_overpass
+East Montpelier Center,-72.5253853,44.2836701,hamlet,node,158863019,osm_overpass
+East Peacham,-72.1581482,44.3379757,hamlet,node,158903911,osm_overpass
+East Roxbury,-72.6519245,44.0798794,hamlet,node,158908597,osm_overpass
+East Ryegate,-72.0636682,44.204265,village,node,158871550,osm_overpass
+East Saint Johnsbury,-71.9453715,44.4386753,hamlet,node,158859702,osm_overpass
+East Warren,-72.8198355,44.1095054,hamlet,node,158821551,osm_overpass
+Eden,-72.5454357,44.7074205,village,node,158837227,osm_overpass
+Edgewater,-72.3342681,44.3236698,hamlet,node,158798061,osm_overpass
+Egypt,-71.9873018,44.5738152,hamlet,node,158810461,osm_overpass
+Evansville,-72.1303781,44.8031044,hamlet,node,158811017,osm_overpass
+Ewells Mills,-72.1714865,44.3600585,hamlet,node,158811240,osm_overpass
+Folsom,-71.9854739,44.5799901,hamlet,node,158902986,osm_overpass
+Gallup Mills,-71.7841161,44.5745158,hamlet,node,158810664,osm_overpass
+Garfield,-72.536687,44.6019961,hamlet,node,158860905,osm_overpass
+Gebbie Corner,-72.2850617,44.6316267,hamlet,node,158893092,osm_overpass
+Gilman,-71.7189101,44.4135428,hamlet,node,158859661,osm_overpass
+Glover,-72.1870049,44.7070889,village,node,4502594882,osm_overpass
+Goslants Mill,-72.2192678,44.4644999,hamlet,node,158844467,osm_overpass
+Granby,-71.7582797,44.570324,hamlet,node,158866876,osm_overpass
+Graniteville,-72.4928815,44.1511732,hamlet,node,158808230,osm_overpass
+Green Bay,-72.2023193,44.3047819,hamlet,node,158806967,osm_overpass
+Greensboro,-72.2956806,44.5760038,village,node,158863131,osm_overpass
+Greensboro Bend,-72.2648257,44.5489422,hamlet,node,158839100,osm_overpass
+Groton,-72.1955074,44.2104648,village,node,158818222,osm_overpass
+Guildhall,-71.560369,44.5647252,village,node,158872569,osm_overpass
+Guildhall Station,-71.5878742,44.5664262,hamlet,node,9933983066,osm_overpass
+Hardwick,-72.3659998,44.5043429,village,node,158837472,osm_overpass
+Hardwick Center,-72.3367995,44.5294978,hamlet,node,158843116,osm_overpass
+Hardwick Street,-72.299549,44.5497754,hamlet,node,158799294,osm_overpass
+Hartwellville,-71.8931243,44.6466889,hamlet,node,158844068,osm_overpass
+Harvey Hollow,-72.1434308,44.3833914,hamlet,node,158808987,osm_overpass
+Holland,-72.0033079,44.9667869,hamlet,node,158855713,osm_overpass
+Hyde Park,-72.617235,44.5936236,village,node,11086103140,osm_overpass
+Hyde Park,-72.6170954,44.5935986,village,node,158826249,osm_overpass
+Irasburg,-72.2791407,44.8034297,village,node,158819864,osm_overpass
+Irasville,-72.8402204,44.1812124,hamlet,node,158846883,osm_overpass
+Island Pond,-71.8811845,44.8153796,village,node,158813349,osm_overpass
+Ithiel Falls,-72.7245671,44.6492171,hamlet,node,158844252,osm_overpass
+Jay,-72.4381452,44.9481252,village,node,158844127,osm_overpass
+Jeffersonville,-72.8293886,44.6437941,village,node,158857150,osm_overpass
+Johnson,-72.6792553,44.6353525,village,node,158917278,osm_overpass
+Kents Corners,-72.4850265,44.3687863,hamlet,node,158818638,osm_overpass
+Lake Elmore,-72.5236752,44.5412099,hamlet,node,158853747,osm_overpass
+Lake Park,-72.1949652,44.9951648,hamlet,node,158866170,osm_overpass
+Lakeside,-72.2623195,44.2517275,hamlet,node,158819897,osm_overpass
+Lanesboro,-72.3112114,44.3072814,hamlet,node,158855682,osm_overpass
+Lemington,-71.5511382,44.8579842,hamlet,node,158815568,osm_overpass
+Lindsay Beach,-72.1888427,44.9693417,hamlet,node,158809654,osm_overpass
+Lost Nation,-71.8443433,44.6970759,hamlet,node,158893117,osm_overpass
+Lowell,-72.447494,44.7993453,village,node,158801934,osm_overpass
+Lower Cabot,-72.332603,44.3903348,hamlet,node,158894772,osm_overpass
+Lower Village,-72.6935684,44.4589632,hamlet,node,6028692280,osm_overpass
+Lower Waterford,-71.9076529,44.3546769,hamlet,node,158903176,osm_overpass
+Lower Websterville,-72.4782334,44.1681655,hamlet,node,158893071,osm_overpass
+Lunenburg,-71.6820321,44.4631136,village,node,158903533,osm_overpass
+Lyndon,-72.0109292,44.5142226,village,node,158820578,osm_overpass
+Lyndon Center,-72.0127099,44.537478,hamlet,node,158815112,osm_overpass
+Lyndonville,-72.0031346,44.5337231,village,node,158857101,osm_overpass
+Mackville,-72.3672151,44.4898554,hamlet,node,158821404,osm_overpass
+Maple Corner,-72.4945363,44.376074,hamlet,node,158813479,osm_overpass
+Marshfield,-72.3535081,44.3513146,village,node,158841601,osm_overpass
+McIndoe Falls,-72.0630871,44.2616376,hamlet,node,158853705,osm_overpass
+Merrill Corner,-72.3384062,44.7035543,hamlet,node,158799303,osm_overpass
+Middlesex,-72.6780549,44.2920544,village,node,158869484,osm_overpass
+Miles Pond,-71.7961642,44.4472956,hamlet,node,158819882,osm_overpass
+Mill Village,-72.7472695,44.3416821,hamlet,node,158896374,osm_overpass
+Mill Village,-72.3755168,44.6656887,hamlet,node,5449422017,osm_overpass
+Mill Village,-71.6605686,44.4981065,hamlet,node,158906844,osm_overpass
+Moccasin Mill,-71.8009427,44.5998356,hamlet,node,158858970,osm_overpass
+Montpelier Junction,-72.6077199,44.2571009,hamlet,node,158810668,osm_overpass
+Moretown,-72.7613,44.2509107,village,node,158854360,osm_overpass
+Morgan,-72.0148116,44.9134915,village,node,158860819,osm_overpass
+Morgan Center,-71.978968,44.9092666,hamlet,node,158817460,osm_overpass
+Morristown,-72.6245744,44.5573065,village,node,158835690,osm_overpass
+Morses Mill,-72.7915132,44.5883844,hamlet,node,158811906,osm_overpass
+Morses Mills,-72.0920406,44.3800585,hamlet,node,158846239,osm_overpass
+Moscow,-72.7153961,44.4414432,hamlet,node,158859018,osm_overpass
+Mosquitoville,-72.1446907,44.2703061,hamlet,node,158803686,osm_overpass
+Nevesville,-72.2220804,44.4516976,hamlet,node,158825489,osm_overpass
+Newark,-71.9517377,44.6885171,hamlet,node,6133626904,osm_overpass
+Newark Hollow,-71.9289841,44.6997735,hamlet,node,158874946,osm_overpass
+Newport Center,-72.3065868,44.950776,village,node,158862194,osm_overpass
+North Calais,-72.4470702,44.3900567,hamlet,node,158846918,osm_overpass
+North Cambridge,-72.8570756,44.686994,hamlet,node,158855715,osm_overpass
+North Concord,-71.8566027,44.4687608,hamlet,node,158896395,osm_overpass
+North Danville,-72.0947119,44.4587665,hamlet,node,158837455,osm_overpass
+North Derby,-72.1718887,45.0055052,hamlet,node,158916330,osm_overpass
+North Duxbury,-72.8290084,44.3583886,hamlet,node,158805008,osm_overpass
+North Fayston,-72.8381728,44.2420023,hamlet,node,158910027,osm_overpass
+North Hyde Park,-72.5985902,44.6707248,hamlet,node,158854954,osm_overpass
+North Kirby,-71.9383265,44.5159914,hamlet,node,158836540,osm_overpass
+North Montpelier,-72.4464939,44.3036699,hamlet,node,158823381,osm_overpass
+North Moretown,-72.7441821,44.3247296,hamlet,node,158853289,osm_overpass
+North Troy,-72.4038299,44.996484,village,node,158835698,osm_overpass
+North Walden,-72.2631588,44.5050542,hamlet,node,158840976,osm_overpass
+North Wolcott,-72.4603875,44.6111627,hamlet,node,158822251,osm_overpass
+Northfield Center,-72.6594544,44.136026,hamlet,node,158810418,osm_overpass
+Northfield Falls,-72.6503207,44.1720871,hamlet,node,158823448,osm_overpass
+Norton,-71.7944363,45.0096336,village,node,158810363,osm_overpass
+Orleans,-72.2022384,44.8113611,village,node,9132261861,osm_overpass
+Passumpsic,-72.0277126,44.376255,hamlet,node,158817314,osm_overpass
+Peacham,-72.1703611,44.3284703,village,node,158867933,osm_overpass
+Peacham Corner,-72.2684329,44.3400585,hamlet,node,158823393,osm_overpass
+Perkinsville,-72.3981572,44.2208943,hamlet,node,158823099,osm_overpass
+Perry,-72.0857645,44.6961621,hamlet,node,158906514,osm_overpass
+Plainfield,-72.425448,44.2780796,village,node,158837440,osm_overpass
+Pottersville,-72.4526094,44.538942,hamlet,node,158857291,osm_overpass
+Putnamville,-72.5659437,44.3417241,hamlet,node,158824937,osm_overpass
+Ralston Corner,-71.8332771,44.4295316,hamlet,node,158813444,osm_overpass
+Ramsey Corner,-72.0999465,44.5701117,hamlet,node,158838225,osm_overpass
+Ricker Mills,-72.239263,44.2386723,hamlet,node,158811856,osm_overpass
+Roxbury,-72.7332921,44.093291,village,node,158858829,osm_overpass
+Ryegate Corner,-72.1036629,44.2083985,hamlet,node,158804475,osm_overpass
+Shady Rill,-72.589278,44.3442239,hamlet,node,158846310,osm_overpass
+Sheffield,-72.1142013,44.6020032,village,node,158855588,osm_overpass
+Sheffield Square,-72.1542644,44.6214187,hamlet,node,158853749,osm_overpass
+Simms Hill,-71.5898756,44.8610227,hamlet,node,158877336,osm_overpass
+Smith Corner,-72.2712139,44.4667219,hamlet,node,158851895,osm_overpass
+South Albany,-72.3120498,44.6914391,hamlet,node,158804759,osm_overpass
+South Barre,-72.5056602,44.1770059,hamlet,node,158874941,osm_overpass
+South Cabot,-72.275656,44.3675577,hamlet,node,158842634,osm_overpass
+South Cambridge,-72.8104035,44.6100507,hamlet,node,158836215,osm_overpass
+South Duxbury,-72.7865055,44.2486694,hamlet,node,158806447,osm_overpass
+South Kirby,-71.9012935,44.4705928,hamlet,node,158865865,osm_overpass
+South Lunenburg,-71.6796613,44.4292529,hamlet,node,158873331,osm_overpass
+South Northfield,-72.6542754,44.1153398,hamlet,node,158838272,osm_overpass
+South Peacham,-72.1659299,44.3147818,hamlet,node,158818017,osm_overpass
+South Ryegate,-72.1409272,44.1883959,hamlet,node,158838245,osm_overpass
+South Walden,-72.2896461,44.4743412,hamlet,node,158818179,osm_overpass
+South Woodbury,-72.4214954,44.4150561,hamlet,node,158855719,osm_overpass
+Stannard,-72.2149365,44.5423428,village,node,158798538,osm_overpass
+Stowe Fork,-72.7562321,44.5022749,hamlet,node,158814188,osm_overpass
+Sugarbush Village,-72.8925777,44.1414343,hamlet,node,158851407,osm_overpass
+Summit,-72.0566823,44.6901693,hamlet,node,158813353,osm_overpass
+Sutton,-72.0264149,44.633176,village,node,158819206,osm_overpass
+Taylor Bridge,-72.2926039,44.4842214,hamlet,node,158876852,osm_overpass
+Texas,-71.824385,44.4178422,hamlet,node,158802762,osm_overpass
+The Four Corners,-72.2300846,44.5944331,hamlet,node,158842800,osm_overpass
+Tice,-72.0349369,44.9799237,hamlet,node,158822118,osm_overpass
+Tillotson Mill,-72.5179351,44.7814727,hamlet,node,158905179,osm_overpass
+Tolman Corner,-72.3067547,44.5671451,hamlet,node,158859015,osm_overpass
+Troy,-72.4058578,44.9037718,village,node,158894323,osm_overpass
+Upper Graniteville,-72.4764919,44.1417291,hamlet,node,158851388,osm_overpass
+Victory,-71.8453264,44.5092023,hamlet,node,158858822,osm_overpass
+Waitsfield,-72.822106,44.1926416,village,node,158825963,osm_overpass
+Waitsfield Common,-72.797397,44.1899269,hamlet,node,158810660,osm_overpass
+Walden,-72.2233339,44.449781,village,node,158915404,osm_overpass
+Walden Heights,-72.2567582,44.452307,hamlet,node,158822082,osm_overpass
+Wallace Pond,-71.6214958,45.0100003,hamlet,node,158903554,osm_overpass
+Warren,-72.8555364,44.1139265,village,node,158824247,osm_overpass
+Warren's Gore,-71.8763336,44.9102365,hamlet,node,10929392945,osm_overpass
+Waterbury Center,-72.7159505,44.3781114,hamlet,node,158842243,osm_overpass
+Waterville,-72.7691959,44.6902339,village,node,158824761,osm_overpass
+Websterville,-72.4695476,44.1606176,hamlet,node,158861684,osm_overpass
+Wenlock,-71.7531099,44.7765222,hamlet,node,158800863,osm_overpass
+West Barnet,-72.1380222,44.3100282,hamlet,node,158863325,osm_overpass
+West Berlin,-72.6328878,44.2000603,hamlet,node,158814935,osm_overpass
+West Branch,-72.7160004,44.4741727,hamlet,node,158851377,osm_overpass
+West Burke,-71.9796912,44.6415291,village,node,158866587,osm_overpass
+West Charleston,-72.0597319,44.898758,hamlet,node,158818629,osm_overpass
+West Danville,-72.1951282,44.4092076,hamlet,node,158803203,osm_overpass
+West Glover,-72.2239917,44.7283829,hamlet,node,158905529,osm_overpass
+West Groton,-72.2434296,44.2181172,hamlet,node,158894188,osm_overpass
+West Settlement,-72.721233,44.6200509,hamlet,node,158798564,osm_overpass
+West Waterford,-71.9560183,44.3577512,hamlet,node,158873282,osm_overpass
+Westfield,-72.4286266,44.889371,village,node,158803195,osm_overpass
+Westmore,-72.0548723,44.7711201,village,node,158804634,osm_overpass
+Wheelock,-72.0834638,44.5877555,village,node,158825933,osm_overpass
+Whites Corner,-71.8889733,44.4108597,hamlet,node,158853964,osm_overpass
+Wildersburg Common,-72.4795484,44.1867281,hamlet,node,158815997,osm_overpass
+Willoughby,-72.1085072,44.703779,hamlet,node,158823000,osm_overpass
+Wolcott,-72.4578702,44.546609,village,node,158846447,osm_overpass
+Woodbury,-72.4151253,44.4413834,village,node,158854022,osm_overpass
+Worcester,-72.5504119,44.3736006,village,node,158866868,osm_overpass
+Wrightsville,-72.5787215,44.3114469,hamlet,node,158853609,osm_overpass
