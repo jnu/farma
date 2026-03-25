@@ -14,5 +14,8 @@ __pycache__
 *~
 .DS_Store
 .ipynb_checkpoints
+r-lib
 .idea
 .vscode
+
+routing/data/**
