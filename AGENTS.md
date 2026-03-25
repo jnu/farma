@@ -12,7 +12,8 @@ Lamoille, and Washington counties).
 - **Python 3.13**, managed with **uv**
 - Jupyter notebooks in `notebooks/`
 - Key libraries: geopandas, shapely, folium, pandas, numpy, matplotlib, seaborn, scipy
-- Data lives in `data/` (geojson, csv, json, png outputs)
+- Input data lives in `data/` (geojson, csv, json).
+- Output artifacts that can be regenerated easily should live in `output/`. Some intermediate outputs that need to be cached like large dataframes should be stored in `data`.
 
 ### Frontend (planned)
 - **SvelteKit** with **TypeScript**, managed with **pnpm**
