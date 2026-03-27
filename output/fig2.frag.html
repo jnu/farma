@@ -1,37 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Population by census block and pharmacy deserts</title>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
-<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
-<style>
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:system-ui,-apple-system,sans-serif;background:#f5f5f0;display:flex;flex-direction:column;height:100vh}
-  #header{padding:10px 16px 6px;background:#fff;border-bottom:1px solid #ddd;flex-shrink:0}
-  #header h2{font-size:.95rem;color:#444;font-weight:600;margin-bottom:4px}
-  #stat{font-size:.8rem;color:#666;margin-top:2px}
-  #map{flex:1}
-  .legend-box{background:rgba(255,255,255,.92);padding:8px 10px;border-radius:6px;font-size:.75rem;line-height:1.8;color:#444}
-</style>
-</head>
-<body>
 <svg style="position:absolute;width:0;height:0;overflow:hidden" aria-hidden="true">
   <defs>
-    <pattern id="desert-hatch" patternUnits="userSpaceOnUse" width="3" height="3">
+    <pattern id="f2-hatch" patternUnits="userSpaceOnUse" width="3" height="3">
       <circle cx="2" cy="2" r="0.5" fill="#c0392b" fill-opacity="1"/>
     </pattern>
   </defs>
 </svg>
-<div id="header">
-  <h2>Population by census block and pharmacy deserts — Northeast Vermont</h2>
-  <div id="stat">
-    <strong>26,554</strong> residents (17.7% of region) currently &gt;20 minutes from a pharmacy.
-    Red boundary = 20+ minute pharmacy desert.
+<style>
+#fig2{display:flex;flex-direction:column;height:500px;font-family:system-ui,-apple-system,sans-serif;background:#f5f5f0}
+#fig2 .f2-hdr{padding:10px 16px 6px;background:#fff;border-bottom:1px solid #ddd;flex-shrink:0}
+#fig2 .f2-hdr h2{font-size:.95rem;color:#444;font-weight:600;margin:0 0 4px}
+#fig2 .f2-stat{font-size:.8rem;color:#666;margin-top:2px}
+#fig2 #f2-map{flex:1;min-height:0}
+.f2-legend-box{background:rgba(255,255,255,.92);padding:8px 10px;border-radius:6px;font-size:.75rem;line-height:1.8;color:#444}
+</style>
+<div id="fig2">
+  <div class="f2-hdr">
+    <h2>Population by census block and pharmacy deserts — Northeast Vermont</h2>
+    <div class="f2-stat">
+      <strong>26,554</strong> residents (17.7% of region) currently &gt;20 minutes from a pharmacy.
+      Red boundary = 20+ minute pharmacy desert.
+    </div>
   </div>
+  <div id="f2-map"></div>
 </div>
-<div id="map"></div>
 <script type="module">
 import * as geobuf from 'https://esm.sh/geobuf@3.0.2';
 import Pbf from 'https://esm.sh/pbf@3.2.1';
@@ -44,7 +35,7 @@ const CONTOUR    = {"type": "FeatureCollection", "features": [{"type": "Feature"
 const TILE       = "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
 const TILE_ATTR  = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com">CARTO</a>';
 
-const m = L.map('map').setView(CENTER, 9);
+const m = L.map('f2-map').setView(CENTER, 9);
 L.tileLayer(TILE, {attribution: TILE_ATTR, subdomains:'abcd', maxZoom:19}).addTo(m);
 L.geoJSON(COUNTIES, {style: {fillOpacity:0, color:'#888', weight:1}}).addTo(m);
 fetch('assets/blocks.pbf')
@@ -55,7 +46,7 @@ fetch('assets/blocks.pbf')
       onEachFeature: (f, l) => l.bindTooltip(BG_LABELS[f.properties.q] + ' residents'),
     }).addTo(m);
   });
-L.geoJSON(CONTOUR, {style: {color:'#c0392b', weight:1, fillColor:'url(#desert-hatch)', fillOpacity:1}}).addTo(m);
+L.geoJSON(CONTOUR, {style: {color:'#c0392b', weight:1, fillColor:'url(#f2-hatch)', fillOpacity:1}}).addTo(m);
 PHARMACIES.forEach(p => {
   const style = p.inside
     ? {radius:5, color:'#1a5276', fill:true, fillColor:'#3498db', fillOpacity:.9, weight:1}
@@ -65,15 +56,12 @@ PHARMACIES.forEach(p => {
     .addTo(m);
 });
 
-// Legend
 const legend = L.control({position:'bottomright'});
 legend.onAdd = () => {
-  const d = L.DomUtil.create('div','legend-box');
+  const d = L.DomUtil.create('div','f2-legend-box');
   d.innerHTML = '<b>Residents per census block</b><br><span style="display:inline-block;width:12px;height:12px;background:#c6dbef;margin-right:5px;border-radius:2px;vertical-align:middle"></span>&lt;&nbsp;6<br><span style="display:inline-block;width:12px;height:12px;background:#9ecae1;margin-right:5px;border-radius:2px;vertical-align:middle"></span>6–12<br><span style="display:inline-block;width:12px;height:12px;background:#6baed6;margin-right:5px;border-radius:2px;vertical-align:middle"></span>12–21<br><span style="display:inline-block;width:12px;height:12px;background:#3182bd;margin-right:5px;border-radius:2px;vertical-align:middle"></span>21–40<br><span style="display:inline-block;width:12px;height:12px;background:#08519c;margin-right:5px;border-radius:2px;vertical-align:middle"></span>&gt;&nbsp;40<br>'
     + '<span style="display:inline-block;width:14px;height:3px;background:#c0392b;margin-right:5px;vertical-align:middle"></span>&ge;20 min desert';
   return d;
 };
 legend.addTo(m);
 </script>
-</body>
-</html>

@@ -1,70 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Pharmacy placement explorer</title>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
-<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
-<style>
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:system-ui,-apple-system,sans-serif;background:#f5f5f0;display:flex;flex-direction:column;height:100vh;overflow:hidden}
-  #header{padding:8px 14px;background:#fff;border-bottom:1px solid #ddd;flex-shrink:0;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
-  #header label{font-size:.8rem;color:#666;white-space:nowrap}
-  #header select{font-size:.82rem;padding:4px 8px;border:1px solid #ccc;border-radius:4px;max-width:260px;background:#fff}
-  #stat{font-size:.85rem;color:#333;white-space:nowrap}
-  #stat strong{color:#1a6b3c;font-size:1rem}
-  #maps{display:flex;flex:1;min-height:0;position:relative}
-  #map-overlay{position:absolute;inset:0;z-index:1000;background:rgba(245,245,240,.6);opacity:0;transition:opacity .3s ease;pointer-events:none;display:flex;align-items:center;justify-content:center}
-  #map-overlay.active{opacity:1;pointer-events:all;cursor:wait}
-  #map-overlay-badge{display:flex;flex-direction:column;align-items:center;gap:10px;background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:18px 28px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
-  #map-overlay-badge span{font-size:.82rem;font-weight:600;color:#555;letter-spacing:.03em}
-  #map-overlay-spinner{width:28px;height:28px;border:3px solid #ddd;border-top-color:#3498db;border-radius:50%;animation:spin .8s linear infinite}
-  @keyframes spin{to{transform:rotate(360deg)}}
-  .pane{flex:1;display:flex;flex-direction:column;min-width:0}
-  .pane-label{text-align:center;padding:4px 8px;font-size:.78rem;font-weight:600;background:#fff;border-bottom:1px solid #e0e0e0;color:#555;flex-shrink:0}
-  .map{flex:1}
-  #divider{width:3px;background:#ddd;flex-shrink:0}
-  .village-marker-active {stroke:#8b0000!important;stroke-width:3!important;fill:#e74c3c!important}
-  #loading{display:flex;align-items:center;gap:6px;font-size:.75rem;color:#888;opacity:0;transition:opacity .3s ease;pointer-events:none;margin-left:auto;white-space:nowrap}
-  #loading.active{opacity:1}
-  #loading-dot{width:7px;height:7px;border-radius:50%;background:#3498db;animation:ldpulse 1s ease-in-out infinite}
-  @keyframes ldpulse{0%,100%{opacity:.3;transform:scale(.8)}50%{opacity:1;transform:scale(1.15)}}
-</style>
-</head>
-<body>
 <svg style="position:absolute;width:0;height:0;overflow:hidden" aria-hidden="true">
   <defs>
-    <pattern id="desert-hatch" patternUnits="userSpaceOnUse" width="3" height="3">
+    <pattern id="f3-hatch" patternUnits="userSpaceOnUse" width="3" height="3">
       <circle cx="2" cy="2" r="0.5" fill="#c0392b" fill-opacity="1"/>
     </pattern>
   </defs>
 </svg>
-<div id="header">
-  <label>Hypothetical pharmacy location:
-    <select id="site-select"></select>
-  </label>
-  <div id="stat">
-    <strong id="stat-val">—</strong> person·minutes saved &nbsp;·&nbsp;
-    <strong id="stat-people">—</strong> people served
-  </div>
-  <div id="loading"><div id="loading-dot"></div>Loading…</div>
-</div>
-<div id="maps">
-  <div id="map-overlay">
-    <div id="map-overlay-badge">
-      <div id="map-overlay-spinner"></div>
-      <span>Loading…</span>
+<style>
+#fig3{display:flex;flex-direction:column;height:580px;font-family:system-ui,-apple-system,sans-serif;background:#f5f5f0;overflow:hidden}
+#fig3 .f3-hdr{padding:8px 14px;background:#fff;border-bottom:1px solid #ddd;flex-shrink:0;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+#fig3 .f3-hdr label{font-size:.8rem;color:#666;white-space:nowrap}
+#fig3 .f3-hdr select{font-size:.82rem;padding:4px 8px;border:1px solid #ccc;border-radius:4px;max-width:260px;background:#fff}
+#fig3 .f3-stat{font-size:.85rem;color:#333;white-space:nowrap}
+#fig3 .f3-stat strong{color:#1a6b3c;font-size:1rem}
+#fig3 .f3-maps{display:flex;flex:1;min-height:0}
+#fig3 .f3-pane{flex:1;display:flex;flex-direction:column;min-width:0}
+#fig3 .f3-pane-label{text-align:center;padding:4px 8px;font-size:.78rem;font-weight:600;background:#fff;border-bottom:1px solid #e0e0e0;color:#555;flex-shrink:0}
+#fig3 .f3-map{flex:1}
+#fig3 .f3-div{width:3px;background:#ddd;flex-shrink:0}
+.f3-village-marker-active{stroke:#8b0000!important;stroke-width:3!important;fill:#e74c3c!important}
+</style>
+<div id="fig3">
+  <div class="f3-hdr">
+    <label>Hypothetical pharmacy location:
+      <select id="f3-site-select"></select>
+    </label>
+    <div class="f3-stat">
+      <strong id="f3-stat-val">—</strong> person·minutes saved &nbsp;·&nbsp;
+      <strong id="f3-stat-people">—</strong> people served
     </div>
   </div>
-  <div class="pane">
-    <div class="pane-label">Drive-time with hypothetical pharmacy</div>
-    <div id="map-left" class="map"></div>
-  </div>
-  <div id="divider"></div>
-  <div class="pane">
-    <div class="pane-label">Population by census block · red outline = 20+ minute pharmacy desert</div>
-    <div id="map-right" class="map"></div>
+  <div class="f3-maps">
+    <div class="f3-pane">
+      <div class="f3-pane-label">Drive-time with hypothetical pharmacy</div>
+      <div id="f3-map-left" class="f3-map"></div>
+    </div>
+    <div class="f3-div"></div>
+    <div class="f3-pane">
+      <div class="f3-pane-label">Population by census block · red outline = 20+ minute pharmacy desert</div>
+      <div id="f3-map-right" class="f3-map"></div>
+    </div>
   </div>
 </div>
 <script type="module">
@@ -81,18 +55,6 @@ const GRIDS_DIR  = "placement_grids/";
 const TILE       = "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
 const TILE_ATTR  = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com">CARTO</a>';
 
-// ── Loading indicator ─────────────────────────────────────────────────────────
-let _loadCount = 0;
-const _loadEl      = document.getElementById('loading');
-const _overlayEl   = document.getElementById('map-overlay');
-function setLoading(on) {
-  _loadCount = Math.max(0, _loadCount + (on ? 1 : -1));
-  const active = _loadCount > 0;
-  _loadEl.classList.toggle('active', active);
-  _overlayEl.classList.toggle('active', active);
-}
-
-// ── Build maps ────────────────────────────────────────────────────────────────
 function makeBase(id, zoomCtrl) {
   const m = L.map(id, {zoomControl: zoomCtrl}).setView(CENTER, 9);
   L.tileLayer(TILE, {attribution: TILE_ATTR, subdomains:'abcd', maxZoom:19}).addTo(m);
@@ -100,15 +62,12 @@ function makeBase(id, zoomCtrl) {
   return m;
 }
 
-const mapL = makeBase('map-left',  true);
-const mapR = makeBase('map-right', false);
+const mapL = makeBase('f3-map-left',  true);
+const mapR = makeBase('f3-map-right', false);
 
-// Right-pane custom panes: bgPane below contour, both below markers (overlayPane=400)
 mapR.createPane('contourPane');
 mapR.getPane('contourPane').style.zIndex = 360;
 
-// Block group choropleth — right pane only, loaded async
-setLoading(true);
 fetch('assets/blocks.pbf')
   .then(r => r.arrayBuffer())
   .then(buf => {
@@ -116,10 +75,8 @@ fetch('assets/blocks.pbf')
       style: f => ({fillColor: BG_COLORS[f.properties.q], fillOpacity:0.25, stroke: false}),
       onEachFeature: (f, l) => l.bindTooltip(BG_LABELS[f.properties.q] + ' residents'),
     }).addTo(mapR);
-  })
-  .finally(() => setLoading(false));
+  });
 
-// Pharmacy markers on both maps
 PHARMACIES.forEach(p => {
   const opts = p.inside
     ? {radius:5, color:'#1a5276', fill:true, fillColor:'#3498db', fillOpacity:.9, weight:1}
@@ -128,7 +85,6 @@ PHARMACIES.forEach(p => {
   L.circleMarker([p.lat, p.lon], opts).bindTooltip(p.name+(p.city?' · '+p.city:'')).addTo(mapR);
 });
 
-// ── Village markers (both maps) ───────────────────────────────────────────────
 const markersL = {}, markersR = {};
 
 PLACEMENTS.forEach(v => {
@@ -141,55 +97,45 @@ PLACEMENTS.forEach(v => {
   mR.on('click', () => selectSite(v.osm_id));
 });
 
-// ── Overlay state ─────────────────────────────────────────────────────────────
 let heatLayer = null, contourLayer = null, activeId = null;
 
 function selectSite(osm_id) {
   const v = PLACEMENTS.find(p => p.osm_id === osm_id);
   if (!v) return;
 
-  // Update stats
-  document.getElementById('stat-val').textContent    = Math.round(v.minutes_saved).toLocaleString();
-  document.getElementById('stat-people').textContent = Math.round(v.people_affected).toLocaleString();
+  document.getElementById('f3-stat-val').textContent    = Math.round(v.minutes_saved).toLocaleString();
+  document.getElementById('f3-stat-people').textContent = Math.round(v.people_affected).toLocaleString();
 
-  // Reset previous marker style
   if (activeId !== null) {
     const dimStyle = {radius:5, color:'#555', fillColor:'#aaa', fillOpacity:.6, weight:1.5};
     markersL[activeId]?.setStyle(dimStyle);
     markersR[activeId]?.setStyle(dimStyle);
   }
 
-  // Highlight selected
   const activeStyle = {radius:9, color:'#6e0000', fillColor:'#e74c3c', fillOpacity:.95, weight:2.5};
   markersL[osm_id]?.setStyle(activeStyle).bringToFront();
   markersR[osm_id]?.setStyle(activeStyle).bringToFront();
   activeId = osm_id;
 
-  // Swap heatmap (left map)
   if (heatLayer) { mapL.removeLayer(heatLayer); heatLayer = null; }
   const src = GRIDS_DIR + osm_id + '.png';
   heatLayer = L.imageOverlay(src, BOUNDS, {opacity:0.65, interactive:false, zIndex:10});
   heatLayer.addTo(mapL);
 
-  // Swap contour (right map) — loaded async from individual file
   if (contourLayer) { mapR.removeLayer(contourLayer); contourLayer = null; }
-  setLoading(true);
   fetch(GRIDS_DIR + osm_id + '_contour.json')
     .then(r => r.ok ? r.json() : null)
     .then(gj => {
       if (gj && gj.features && gj.features.length && activeId === osm_id) {
-        contourLayer = L.geoJSON(gj, {style: {color:'#c0392b', weight:1, fillColor:'url(#desert-hatch)', fillOpacity:1}, pane:'contourPane'});
+        contourLayer = L.geoJSON(gj, {style: {color:'#c0392b', weight:1, fillColor:'url(#f3-hatch)', fillOpacity:1}, pane:'contourPane'});
         contourLayer.addTo(mapR);
       }
-    })
-    .finally(() => setLoading(false));
+    });
 
-  // Sync dropdown
-  document.getElementById('site-select').value = String(osm_id);
+  document.getElementById('f3-site-select').value = String(osm_id);
 }
 
-// ── Dropdown ──────────────────────────────────────────────────────────────────
-const sel = document.getElementById('site-select');
+const sel = document.getElementById('f3-site-select');
 PLACEMENTS.sort((a, b) => a.name.localeCompare(b.name)).forEach(v => {
   const opt = document.createElement('option');
   opt.value = String(v.osm_id);
@@ -198,7 +144,6 @@ PLACEMENTS.sort((a, b) => a.name.localeCompare(b.name)).forEach(v => {
 });
 sel.addEventListener('change', e => selectSite(parseInt(e.target.value)));
 
-// ── Sync pan/zoom ─────────────────────────────────────────────────────────────
 let _syncing = false;
 function syncMaps(src, tgt) {
   src.on('moveend', () => {
@@ -211,8 +156,5 @@ function syncMaps(src, tgt) {
 syncMaps(mapL, mapR);
 syncMaps(mapR, mapL);
 
-// ── Default selection ─────────────────────────────────────────────────────────
 selectSite(158837472);
 </script>
-</body>
-</html>
