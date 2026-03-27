@@ -14,12 +14,22 @@
   #header select{font-size:.82rem;padding:4px 8px;border:1px solid #ccc;border-radius:4px;max-width:260px;background:#fff}
   #stat{font-size:.85rem;color:#333;white-space:nowrap}
   #stat strong{color:#1a6b3c;font-size:1rem}
-  #maps{display:flex;flex:1;min-height:0}
+  #maps{display:flex;flex:1;min-height:0;position:relative}
+  #map-overlay{position:absolute;inset:0;z-index:1000;background:rgba(245,245,240,.6);opacity:0;transition:opacity .3s ease;pointer-events:none;display:flex;align-items:center;justify-content:center}
+  #map-overlay.active{opacity:1;pointer-events:all;cursor:wait}
+  #map-overlay-badge{display:flex;flex-direction:column;align-items:center;gap:10px;background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:18px 28px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
+  #map-overlay-badge span{font-size:.82rem;font-weight:600;color:#555;letter-spacing:.03em}
+  #map-overlay-spinner{width:28px;height:28px;border:3px solid #ddd;border-top-color:#3498db;border-radius:50%;animation:spin .8s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
   .pane{flex:1;display:flex;flex-direction:column;min-width:0}
   .pane-label{text-align:center;padding:4px 8px;font-size:.78rem;font-weight:600;background:#fff;border-bottom:1px solid #e0e0e0;color:#555;flex-shrink:0}
   .map{flex:1}
   #divider{width:3px;background:#ddd;flex-shrink:0}
   .village-marker-active {stroke:#8b0000!important;stroke-width:3!important;fill:#e74c3c!important}
+  #loading{display:flex;align-items:center;gap:6px;font-size:.75rem;color:#888;opacity:0;transition:opacity .3s ease;pointer-events:none;margin-left:auto;white-space:nowrap}
+  #loading.active{opacity:1}
+  #loading-dot{width:7px;height:7px;border-radius:50%;background:#3498db;animation:ldpulse 1s ease-in-out infinite}
+  @keyframes ldpulse{0%,100%{opacity:.3;transform:scale(.8)}50%{opacity:1;transform:scale(1.15)}}
 </style>
 </head>
 <body>
@@ -38,8 +48,15 @@
     <strong id="stat-val">—</strong> person·minutes saved &nbsp;·&nbsp;
     <strong id="stat-people">—</strong> people served
   </div>
+  <div id="loading"><div id="loading-dot"></div>Loading…</div>
 </div>
 <div id="maps">
+  <div id="map-overlay">
+    <div id="map-overlay-badge">
+      <div id="map-overlay-spinner"></div>
+      <span>Loading…</span>
+    </div>
+  </div>
   <div class="pane">
     <div class="pane-label">Drive-time with hypothetical pharmacy</div>
     <div id="map-left" class="map"></div>
@@ -64,6 +81,17 @@ const GRIDS_DIR  = "placement_grids/";
 const TILE       = "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
 const TILE_ATTR  = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com">CARTO</a>';
 
+// ── Loading indicator ─────────────────────────────────────────────────────────
+let _loadCount = 0;
+const _loadEl      = document.getElementById('loading');
+const _overlayEl   = document.getElementById('map-overlay');
+function setLoading(on) {
+  _loadCount = Math.max(0, _loadCount + (on ? 1 : -1));
+  const active = _loadCount > 0;
+  _loadEl.classList.toggle('active', active);
+  _overlayEl.classList.toggle('active', active);
+}
+
 // ── Build maps ────────────────────────────────────────────────────────────────
 function makeBase(id, zoomCtrl) {
   const m = L.map(id, {zoomControl: zoomCtrl}).setView(CENTER, 9);
@@ -80,6 +108,7 @@ mapR.createPane('contourPane');
 mapR.getPane('contourPane').style.zIndex = 360;
 
 // Block group choropleth — right pane only, loaded async
+setLoading(true);
 fetch('assets/blocks.pbf')
   .then(r => r.arrayBuffer())
   .then(buf => {
@@ -87,7 +116,8 @@ fetch('assets/blocks.pbf')
       style: f => ({fillColor: BG_COLORS[f.properties.q], fillOpacity:0.25, stroke: false}),
       onEachFeature: (f, l) => l.bindTooltip(BG_LABELS[f.properties.q] + ' residents'),
     }).addTo(mapR);
-  });
+  })
+  .finally(() => setLoading(false));
 
 // Pharmacy markers on both maps
 PHARMACIES.forEach(p => {
@@ -143,6 +173,7 @@ function selectSite(osm_id) {
 
   // Swap contour (right map) — loaded async from individual file
   if (contourLayer) { mapR.removeLayer(contourLayer); contourLayer = null; }
+  setLoading(true);
   fetch(GRIDS_DIR + osm_id + '_contour.json')
     .then(r => r.ok ? r.json() : null)
     .then(gj => {
@@ -150,7 +181,8 @@ function selectSite(osm_id) {
         contourLayer = L.geoJSON(gj, {style: {color:'#c0392b', weight:1, fillColor:'url(#desert-hatch)', fillOpacity:1}, pane:'contourPane'});
         contourLayer.addTo(mapR);
       }
-    });
+    })
+    .finally(() => setLoading(false));
 
   // Sync dropdown
   document.getElementById('site-select').value = String(osm_id);
