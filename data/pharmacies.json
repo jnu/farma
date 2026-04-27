@@ -1161,6 +1161,15 @@
     "business_status": "OPERATIONAL"
   },
   {
+    "place_id": "ChIJfx1q5XNItEwRSfBrw5724H0",
+    "name": "Kinney Drugs Pharmacy",
+    "address": "957 Memorial Dr, St Johnsbury, VT 05819, USA",
+    "city": "St Johnsbury",
+    "lat": 44.4459397,
+    "lon": -72.0523844,
+    "business_status": "OPERATIONAL"
+  },
+  {
     "place_id": "ChIJSThZ2OE3tEwRgGIRBg2YW14",
     "name": "Kinney Drugs Pharmacy",
     "address": "407 Broad St, Lyndonville, VT 05851, USA",
